@@ -1,4 +1,4 @@
-# Portfolio 
+# Reyma's Portfolio 
 This is my public portfolio for 94870 - Telling Stories with Data @ Carnegie Mellon University!
 
 #### __About Me__
