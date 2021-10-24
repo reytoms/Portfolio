@@ -1,9 +1,12 @@
 # Portfolio 
 This is my public portfolio for 94870 - Telling Stories with Data @ Carnegie Mellon University!
 
+![IMG_3238](https://user-images.githubusercontent.com/92896969/138617616-8b07a01b-ce07-4fcb-bb7b-2e0fbcd8eced.jpg)
+
 #### __About Me__
 
 Hi! My name is Reyma and I use the she/her pronoun. I am a graduate student in Information Security and Policy Management @ CMU. 
+
 I am so glad you've visited my page!
 
 Fun fact: I've represented my country at the Youth Olympics, and let the National Anthem play at various other international grounds. In case I am not reachable over the phone or a text message, you will find me at the gym. 
