@@ -1,7 +1,7 @@
 # Portfolio 
 This is my public portfolio for 94870 - Telling Stories with Data @ Carnegie Mellon University!
+<meta property="og:image" content="https://user-images.githubusercontent.com/92896969/138617616-8b07a01b-ce07-4fcb-bb7b-2e0fbcd8eced.jpg"> 
 
-![IMG_3238](https://user-images.githubusercontent.com/92896969/138617616-8b07a01b-ce07-4fcb-bb7b-2e0fbcd8eced.jpg)
 
 #### __About Me__
 
