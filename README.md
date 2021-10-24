@@ -1,4 +1,4 @@
-# Project-Telling-Stories-with-Data
+# Portfolio 
 This is my public portfolio for 94870 - Telling Stories with Data @ Carnegie Mellon University!
 
 #About me
@@ -18,8 +18,13 @@ I aspire to build appealing visuals with impressive and communicative data!
 #Portfolio
 
 Assignment 2: Data visualization #1
+
 Assignment 3&4: Critique by Design
+
 Final Project
+
   Part I: a project proposal
+  
   Part II: Sketches, wireframes, storyboards
+  
   Part III: Final deliverable and presentation
