@@ -6,8 +6,8 @@ This is my public portfolio for 94870 - Telling Stories with Data @ Carnegie Mel
 Hi! My name is Reyma and I use the she/her pronoun. I am a graduate student in Information Security and Policy Management @ CMU. 
 I am so glad you've visited my page!
 
-Fun fact: I've represented my country in the Youth Asian Games and Youth Olympics. In case I am not reachable over the phone or a text message, you will find me at the gym. I embrace differences in race, color and ethnicity - everything unique to us makes us beautiful together!
-I believe in colours. I trust that they add life to pretty much everything.
+Fun fact: I've represented my country at the Youth Olympics, and let the National Anthem play at various other international grounds. In case I am not reachable over the phone or a text message, you will find me at the gym. 
+I believe in colours. I trust that they add life to pretty much everything. I embrace differences in race, color and ethnicity - everything unique to us makes us beautiful together!
 I am a passionate Information Security Professional with about 5 years of work experience. In other words, I have a lot of data to conceal, yet stories to share ;)
 
 ##*What I hope to learn*
