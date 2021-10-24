@@ -1,7 +1,7 @@
 # Portfolio 
 This is my public portfolio for 94870 - Telling Stories with Data @ Carnegie Mellon University!
 
-#### _About Me_
+#### __About Me__
 
 Hi! My name is Reyma and I use the she/her pronoun. I am a graduate student in Information Security and Policy Management @ CMU. 
 I am so glad you've visited my page!
@@ -10,13 +10,13 @@ Fun fact: I've represented my country at the Youth Olympics, and let the Nationa
 I believe in colours. I trust that they add life to pretty much everything. I embrace differences in race, color and ethnicity - everything unique to us makes us beautiful together!
 I am a passionate Information Security Professional with about 5 years of work experience. In other words, I have a lot of data to conceal, yet stories to share ;)
 
-#### _What I hope to learn_
+#### __What I hope to learn__
 
 My brain cells are clustered with data that needs some organizing to better match, map and make sense of it all! I am confident this course is going to help me do just that - use the plethora of information to narrate a meaningful and colourful story.
 I aspire to build appealing visuals with impressive and communicative data.
 
 
-#### _Portfolio_
+#### __Portfolio__
 
 Assignment 2: Data visualization #1
 
