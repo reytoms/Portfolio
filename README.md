@@ -17,7 +17,7 @@ My brain cells are clustered with data that needs some organizing to better matc
 I aspire to build appealing visuals with impressive and communicative data.
 
 
-#### __Portfolio__
+#### __Portfolio Contents__
 
 Assignment 2: Data visualization #1
 
