@@ -26,6 +26,6 @@ Assignment 3 & 4: Critique by Design
 Final Project: 
 Part I: Project proposal
 
- Part II: Sketches, wireframes, storyboards
- 
-  Part III: Final deliverable and presentation
+Part II: Sketches, wireframes, storyboards
+
+Part III: Final deliverable and presentation
