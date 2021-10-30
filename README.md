@@ -1,8 +1,6 @@
 # Reyma's Portfolio 
 This is my public portfolio for 94870 - Telling Stories with Data @ Carnegie Mellon University!
 
-<iframe src="https://data.oecd.org/chart/6vmI" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vmI" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
-
 #### __About Me__
 
 Hi! My name is Reyma and I use the she/her pronoun. I am a graduate student in Information Security and Policy Management @ CMU. 
@@ -21,7 +19,7 @@ I aspire to build appealing visuals with impressive and communicative data.
 
 #### __Portfolio Contents__
 
-[Assignment 2: Data visualization #1](dataviz2.md)
+[Assignment 2: Data visualization #1](/dataviz2.md)
 
 Assignment 3 & 4: Critique by Design
 
