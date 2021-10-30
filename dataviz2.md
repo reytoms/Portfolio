@@ -1,16 +1,13 @@
 The General government debt-to-GDP ratio is the gross debt of the government as a measure of GDP percentage. This ratio is an indication of the government finances. The range of values over the years is a telling tale about past govermental drawbacks in the country.
 
-We will visualize this data across various countries over the years.
+We will visualize this data for different countries.
 
 1. ##__Government debt bar chart (Year: 2018)__
-
 <iframe src="https://data.oecd.org/chart/6vmX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vmX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
 2. ##__Grid of line charts__
-
-This chart represents each country individually, reflecting the ratio from years 1995 to 2020, highlighting the value for 2020.
-
+This chart represents each country individually, reflecting the ratio from years 1995 to 2020, distinctly highlighting the value for year 2020.
 <div class="flourish-embed flourish-chart" data-src="visualisation/7678272"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
