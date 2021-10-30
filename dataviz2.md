@@ -7,7 +7,6 @@ We will visualize this data across various countries over the years.
 <iframe src="https://data.oecd.org/chart/6vmX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vmX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-
 2. ##__Grid of line charts__
 
 This chart represents each country individually, reflecting the ratio from years 1995 to 2020, highlighting the value for 2020.
