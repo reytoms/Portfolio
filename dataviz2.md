@@ -2,12 +2,12 @@ The General government debt-to-GDP ratio is the gross debt of the government as 
 
 We will visualize this data for different countries.
 
-1. ##__Government debt bar chart (Year: 2018)__
+1. __Government debt bar chart (Year: 2018)__
 <iframe src="https://data.oecd.org/chart/6vmX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vmX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-2. ##__Grid of line charts__
-This chart represents each country individually, reflecting the ratio from years 1995 to 2020, distinctly highlighting the value for year 2020.
+2. __Grid of line charts__
+This chart represents each country individually, reflecting the ratio for the years from 1995 to 2020, distinctly indicating the value for year 2020 with a bigger dot.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7678272"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -31,7 +31,7 @@ c. The chart looks too comprehensive with a lot of data that does not communicat
 
 Overall, on a scale of -10 to 10, I would rate this dataviz a score of 5 for both, design execution and contextual awareness. 
 
-Third Data Visualization:
+3. Third Data Visualization:
 
 Incorporating points from "What I would like to change" about the previous visualization, I created 2 bubble charts to visualize the data more clearly. 
 
