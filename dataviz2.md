@@ -39,14 +39,18 @@ b. Despite having a header, the visuals do not complement it. In other words, I 
 
 c. There is a lot of information on this chart which could be reduced for clarity (depepnding on the audience). For instance, I might not need to show the data for all countries if my viewers are only interested to know about Asia. In addition, the time ranges from 1995 to 2020 which might not be necessary. I could also limit this depending on my audience/scope of presentation.
 
-c. The chart looks too comprehensive with a lot of data that does not indicate any key result.
+d. Though eye travel is reduced because the values are denoted on the line graph, the data seems to be cramped. This makes it difficult to identify to which dot the value corresponds. 
 
-Overall, on a scale of -10 to 10, I would rate this dataviz a score of 5 for both, design execution and contextual awareness. 
+e. The chart looks too comprehensive with a lot of data that does not indicate any key result.
+
+Overall, on a scale of -10 to 10, I would rate this dataviz a score of 4 for both, design execution and contextual awareness. 
 
 ### __Third Data Visualization__ ###
 
 
 Incorporating points from "What I would like to change" about the previous visualization, I created 2 bubble charts to visualize the data more clearly. 
+
+a.
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7691484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -54,20 +58,31 @@ First, I grouped the dataset by categorizing the different countries and groupin
 
 This method allowed me to incorporate all the data and distinguish them using colours that did not have any relation indicating that they are categorical data. Moreover, including all the data in a single view of pane allowed my viewers to infer information and make meaningful comparisons across the regions. 
 
+**What was I able to interpret from this chart:
+
+I was able to infer that the government debt-to-gdp ratio in 2020 is highest in the Americas, followed by Asia. The ratio for other regions are comparable and not signigficantly far away from Asia in the 2020. I also noticed that of all the regions, the highest average index value was recorded Asia 140.8 in the year 2000.
+
+b.
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7692158"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Noting that my audience are interested in information about Asia, I created another visualization focusing on countries across Asia alone. I chose to highlight the data for Japan because it remained a constant leader in the debts over the last 25 years. I highlighted this in the chart title, "Japan remains the highest debt country in Asia over the last 25 years", and gave the colour pink (Japan: #E7086E) to Japan, leaving the other countries in grey (#A9ADB0) to focus my viewers attention to Japan. 
+Considering that my audience are interested in information about Asia, I created another visualization focusing on countries across Asia alone. I chose to highlight the data for Japan and noticed that it remained a constant leader in the debts over the last 25 years. I highlighted this in the chart title, "Japan remains the highest debt country in Asia over the last 25 years", and gave the colour pink (Japan: #E7086E) to Japan, leaving the other countries in grey (#A9ADB0) to focus my viewers attention to Japan. 
 
 
 ## __Summary__ ##
 
 
-The reason I chose a bubble chart was because I wanted to include atleast 3 variables in a single view - the regions, values (ratio of debt to gdp) and the year. The first chart (bar chart) gave the best view for a single year. The second, grid of line charts could not include all data into a single chart without making it look noisy. In other words, even though I was able to read the information, I was unable to deduce anything valuable or make comparisons just by looking at the visualization.
+The reason I chose a bubble chart was because I wanted to include atleast 3 variables in a single view - the regions, values (ratio of debt to gdp) and the year. I liked that the bar chart was arranged in the order of increasing ratio which aids the user to interpret which country has the highest/lowest ratio, but the chart does not give comparable information across the years. The visualization is limited to one year at a time. The second, grid of line charts could not include all data into a single chart without making it look noisy. In other words, even though I was able to read the information, I was unable to deduce anything valuable or make quick comparisons across regions just by looking at the visualization. These drawbacks could limit me from decision making.
 
-I trust that the purpose of visualization is to tell a meaningful story using data and visuals, wihtout the use of too many words or a cramped visual. The bubble chart helped me achieve that. I did not include the ratio (values) in the initial view of visualization, but the values pop up for a viewer who might be interested in the numbers. In summary, it conveys a result and the numbers or other more intricate details can be found by hovering the cursor on the bubble. 
-The colours, minimal words in the visual, and a title that summarizes the data result makes it more appealing and inviting to the audience.
+I trust that the purpose of visualization is to tell a meaningful story using data and visuals, wihtout the use of too many words or a cramped visual. The bubble chart helped me achieve that. In summary, it conveys a clear result and the numbers or other more intricate details can be found by hovering the cursor on the bubble. Due to the vast data set, to avoid a noisy visual, I did not include the ratio (values) in the initial view of visualization. However, the values pop up for a viewer who might be interested in the numbers. I also grouped the data to regions and further to countries within a region to limit the number of variable categories (This grouping was based on my assumption that the target audience is interested in data about Asia).
 
-Using the various colours to represent the regions allowed me to portray that the data is categorical and not relational to one another. Moreover, with the bubble size altering based on the value (ratio), the viewers are able to interpret/compare the data for better understanding. Personally, the third visualizing helped me understand that Japan has significantly and linearly remained higher than other countries in the government debt-to-gdp ratio. It is also visible tfrom the bubble sizes that the ratio in Japan increases with each year.
+The colours, minimal words/labels in the visual, and a title that summarizes the result makes it more appealing and inviting to the audience. It also contributes to the ability in comparing data, to tell a story and in decision making.
+
+I used colour and size for visual encoding and as preattentive attributes.
+
+Using the various contrasting colours to represent the regions allowed me to portray that the data is categorical and not relational to one another. Moreover, with the bubble size altering based on the value (ratio), the viewers are able to interpret/compare the data for better understanding. Personally, the third visualizing helped me understand that Japan has significantly and linearly remained higher than other countries in the government debt-to-gdp ratio. The distinct colour used for the corresponding visual made it stand out. It is also visible from the bubble sizes that the ratio in Japan increases with each year.
+
+With the first two charts I was not able to infer the same information.
 
 
 ## __Future work:__ ##
