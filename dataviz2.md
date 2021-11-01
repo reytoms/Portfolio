@@ -2,13 +2,19 @@ The General government debt-to-GDP ratio is the gross debt of the government as 
 
 We will visualize this data for different countries.
 
-__Government debt bar chart (Year: 2018)__
+### __Government debt bar chart (Year: 2018)__ ###
 
 
 <iframe src="https://data.oecd.org/chart/6vmX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vmX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
-__Grid of line charts__
+
+
+
+
+
+
+### __Grid of line charts__ ###
 
 
 This chart represents each country individually, reflecting the ratio for the years from 1995 to 2020, distinctly indicating the value for year 2020 with a bigger dot.
@@ -25,17 +31,19 @@ c. The axes are labelled to indicate the data type
 
 d. Usage of grey colour for axes (gridlines) to mute the overall noise from the chart bars/backgroud
 
-**What would I like to change on this chart:**
+**What would I like to change about this chart:**
 
 a. The chart does not compare all countries simulatenously. The viewer has to make a study for each country individually, and then manually identify the most debted or least debt countries. I would like to make a chart that makes it easy for viewers to derive information/results about the data from the visuals.
 
-b. There is a lot of information on this chart which could be reduced for clarity (depepnding on the audience). For instance, I might not need to show the data for all countries if my viewers are only interested to know about Asia. In addition, the time ranges from 1995 to 2020 which might not be necessary. I could also limit this depending on my audience/scope of presentation.
+b. Despite having a header, the visuals do not complement it. In other words, I need to look at the visual for a long time to agree on that result.
+
+c. There is a lot of information on this chart which could be reduced for clarity (depepnding on the audience). For instance, I might not need to show the data for all countries if my viewers are only interested to know about Asia. In addition, the time ranges from 1995 to 2020 which might not be necessary. I could also limit this depending on my audience/scope of presentation.
 
 c. The chart looks too comprehensive with a lot of data that does not indicate any key result.
 
 Overall, on a scale of -10 to 10, I would rate this dataviz a score of 5 for both, design execution and contextual awareness. 
 
-__Third Data Visualization__
+### __Third Data Visualization__ ###
 
 
 Incorporating points from "What I would like to change" about the previous visualization, I created 2 bubble charts to visualize the data more clearly. 
@@ -50,7 +58,8 @@ This method allowed me to incorporate all the data and distinguish them using co
 
 Noting that my audience are interested in information about Asia, I created another visualization focusing on countries across Asia alone. I chose to highlight the data for Japan because it remained a constant leader in the debts over the last 25 years. I highlighted this in the chart title, "Japan remains the highest debt country in Asia over the last 25 years", and gave the colour pink (Japan: #E7086E) to Japan, leaving the other countries in grey (#A9ADB0) to focus my viewers attention to Japan. 
 
-__Summary__
+
+## __Summary__ ##
 
 
 The reason I chose a bubble chart was because I wanted to include atleast 3 variables in a single view - the regions, values (ratio of debt to gdp) and the year. The first chart (bar chart) gave the best view for a single year. The second, grid of line charts could not include all data into a single chart without making it look noisy. In other words, even though I was able to read the information, I was unable to deduce anything valuable or make comparisons just by looking at the visualization.
@@ -60,13 +69,13 @@ The colours used and minimal words in the visual, with a title that summarizes t
 
 Using the various colours to represent the regions allowed me to portray that the data is categorical and not relational to one another. Moreover, with the bubble size altering based on the value (ratio), the viewers are able to interpret/compare the data for better understanding. Personally, the third visualizing helped me understand that Japan has significantly and linearly remained higher than other countries in the government debt-to-gdp ratio. 
 
-__Future work:__
+## __Future work:__ ##
 
 a. I would like to find a way to control the opacity of the bubble colours depending on the value it denotes. 
 
 b. I would order the regions/country in alphabetical order. 
 
-__References:__
+## __References:__ ##
 
 OECD (2021), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 01 November 2021)
 
