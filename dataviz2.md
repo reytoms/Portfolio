@@ -8,6 +8,7 @@ We will visualize this data for different countries.
 
 2. ##__Grid of line charts__
 This chart represents each country individually, reflecting the ratio from years 1995 to 2020, distinctly highlighting the value for year 2020.
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7678272"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 **What do I like about this chart:**
@@ -18,16 +19,38 @@ b. Eye travel is minimal to find the value of data across the years: Value is ma
 
 c. The axes are labelled to indicate the data type
 
-d. Usage of grey colour to mute the overall noise from the chart bars/backgroud
+d. Usage of grey colour for axes (gridlines) to mute the overall noise from the chart bars/backgroud
 
 **What would I like to change on this chart:**
 
-a. The chart does not compare all countries simulatenously. The viewer has to make a study for each country individually and manually identify the most debted or least debt countries. I would like to make a chart representing data for all countries in a single visual from which an inference can be made, or data can be compared
+a. The chart does not compare all countries simulatenously. The viewer has to make a study for each country individually, and manually identify the most debted or least debt countries. I would like to make a chart that makes it easy for viewers to derive information/results about the data from the visuals.
 
-b. The time ranges from 1995 to 2020 which I consider very long and probably unecessary. I would rather include data over the last 10 years (maximum)
+b. There is a lot of information on this chart which could be reduced for clarity (depepnding on the audience). For instance, I might not need to show the data for all countries if my viewers are only interested to know about Asia. In addition, the time ranges from 1995 to 2020 which I consider very long and probably unecessary. I might consider limiting this to the last 10 years.
 
-c. The chart looks too comprehensive with a lot of data that does not communicate any key result
+c. The chart looks too comprehensive with a lot of data that does not communicate any key result.
 
-Data revisualization:
+Overall, on a scale of -10 to 10, I would rate this dataviz a score of 5 for both, design execution and contextual awareness. 
+
+Third Data Visualization:
+
+Incorporating points from "What I would like to change" about the previous visualization, I created 2 bubble charts to visualize the data more clearly. 
+
+First, I grouped the data for countries across the globe to 5 regions where they belong. I made a bubble chart using contrasting colours to represent all regions across the world (Oceania: #FFE203, Europe: #781EA8, Asia: #FC6500, Americas: #2889C6, Africa: #008A2E). I included a title that highlights what the data is about, and highlighted the 1 region I wanted to focus the study on (This was based on the assumption that my viewers were interested in Asia). The title reads, "GOVERNMENT DEBT-TO-GDP RATIO ACROSS REGIONS: Asia ranks No. 2 following The Americas in 2020". 
+I also added a subtitle decribing how the ratio was calculated. 
+This method allowed me to incorporate all the data and distinguish them using colours that did not have any relation indicating that they are categorical data. Moreover, including all the data in a single view of pane allowed my viewed to infer information and make meaningful comparisons across the regions. 
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/7691484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Noting that my audience are interested in information about Asia, I created another visualization focussing on countries across Asia alone. I chose to highlight the data for Japan because it remained a constant leader in the debts over the last 25 years. I highlighted this in the chart title as "Japan remains the highest debt country in Asia over the last 25 years", and gave the colour pink (Japan: #E7086E) to Japan, leaving the other countries as grey (#A9ADB0) to focus my viewers attention to Japan. 
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7692158"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+The reason I chose a bubble chart was because I wanted to include atleast 3 variables in a single view - the regions, values (ratio of debt to gdp) and the year. The first chart (bar chart) gave the best view for a single year, and the grid of line charts could not include all data into a single chart without making it look noisy. In other words, even though I was able to undertsand the information, I was unable to deduce anything valuable just by looking at the visualization.
+
+I trust that the purpose of visualization is to tell a meaningful story using visuals, keeping minimal data visible. The bubble chart helped me achieve that. I did not have to add the ratio as part of my first view of visualization, but the values pop up for a viewer who might be interested in the numbers. In summary, it conveys a result and the numbers or more intricate details can be found on hovering the cursor to the bubble of interest. 
+
+Using different colours to represent the regions allowed me to portray that the data is categorical and not relational to one another. Moreover, with the bubble size altering based on the value (ratio), the viewers are able to interpret/compare the data to have an understanding. 
+
+Future work:
+I would like to find a way to control the opacity of the bubble colours depending on the value it denotes. 
 
