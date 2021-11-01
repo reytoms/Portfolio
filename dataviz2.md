@@ -65,9 +65,10 @@ Noting that my audience are interested in information about Asia, I created anot
 The reason I chose a bubble chart was because I wanted to include atleast 3 variables in a single view - the regions, values (ratio of debt to gdp) and the year. The first chart (bar chart) gave the best view for a single year. The second, grid of line charts could not include all data into a single chart without making it look noisy. In other words, even though I was able to read the information, I was unable to deduce anything valuable or make comparisons just by looking at the visualization.
 
 I trust that the purpose of visualization is to tell a meaningful story using data and visuals, wihtout the use of too many words or a cramped visual. The bubble chart helped me achieve that. I did not include the ratio (values) in the initial view of visualization, but the values pop up for a viewer who might be interested in the numbers. In summary, it conveys a result and the numbers or other more intricate details can be found by hovering the cursor on the bubble. 
-The colours used and minimal words in the visual, with a title that summarizes the data makes it more appealing and inviting to the audience.
+The colours, minimal words in the visual, and a title that summarizes the data result makes it more appealing and inviting to the audience.
 
-Using the various colours to represent the regions allowed me to portray that the data is categorical and not relational to one another. Moreover, with the bubble size altering based on the value (ratio), the viewers are able to interpret/compare the data for better understanding. Personally, the third visualizing helped me understand that Japan has significantly and linearly remained higher than other countries in the government debt-to-gdp ratio. 
+Using the various colours to represent the regions allowed me to portray that the data is categorical and not relational to one another. Moreover, with the bubble size altering based on the value (ratio), the viewers are able to interpret/compare the data for better understanding. Personally, the third visualizing helped me understand that Japan has significantly and linearly remained higher than other countries in the government debt-to-gdp ratio. It is also visible tfrom the bubble sizes that the ratio in Japan increases with each year.
+
 
 ## __Future work:__ ##
 
