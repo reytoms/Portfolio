@@ -10,7 +10,6 @@ We will visualize this data for different countries.
 This chart represents each country individually, reflecting the ratio from years 1995 to 2020, distinctly highlighting the value for year 2020.
 <div class="flourish-embed flourish-chart" data-src="visualisation/7678272"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-
 **What do I like about this chart:**
 
 a. The chart has a title indicating the result of study for the year 2020: Japan has the highest government debt-to-GDP ratio
