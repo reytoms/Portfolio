@@ -3,10 +3,14 @@ The General government debt-to-GDP ratio is the gross debt of the government as 
 We will visualize this data for different countries.
 
 1. __Government debt bar chart (Year: 2018)__
+
+
 <iframe src="https://data.oecd.org/chart/6vmX" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vmX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
 
 
 2. __Grid of line charts__
+
+
 This chart represents each country individually, reflecting the ratio for the years from 1995 to 2020, distinctly indicating the value for year 2020 with a bigger dot.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7678272"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -33,6 +37,7 @@ Overall, on a scale of -10 to 10, I would rate this dataviz a score of 5 for bot
 
 3. __Third Data Visualization__
 
+
 Incorporating points from "What I would like to change" about the previous visualization, I created 2 bubble charts to visualize the data more clearly. 
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7691484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -47,6 +52,7 @@ Noting that my audience are interested in information about Asia, I created anot
 
 4. __Summary__
 
+
 The reason I chose a bubble chart was because I wanted to include atleast 3 variables in a single view - the regions, values (ratio of debt to gdp) and the year. The first chart (bar chart) gave the best view for a single year. The second, grid of line charts could not include all data into a single chart without making it look noisy. In other words, even though I was able to read the information, I was unable to deduce anything valuable or make comparisons just by looking at the visualization.
 
 I trust that the purpose of visualization is to tell a meaningful story using data and visuals, wihtout the use of too many words or a cramped visual. The bubble chart helped me achieve that. I did not include the ratio (values) in the initial view of visualization, but the values pop up for a viewer who might be interested in the numbers. In summary, it conveys a result and the numbers or other more intricate details can be found by hovering the cursor on the bubble. 
@@ -55,11 +61,15 @@ The colours used and minimal words in the visual, with a title that summarizes t
 Using the various colours to represent the regions allowed me to portray that the data is categorical and not relational to one another. Moreover, with the bubble size altering based on the value (ratio), the viewers are able to interpret/compare the data for better understanding. Personally, the third visualizing helped me understand that Japan has significantly and linearly remained higher than other countries in the government debt-to-gdp ratio. 
 
 __Future work:__
+
 a. I would like to find a way to control the opacity of the bubble colours depending on the value it denotes. 
+
 b. I would order the regions/country in alphabetical order. 
 
 __References:__
+
 OECD (2021), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 01 November 2021)
+
 Adobe. “Color.” Adobe.com, 2019, color.adobe.com/create/color-wheel.
 
 
