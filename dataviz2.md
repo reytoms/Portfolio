@@ -62,7 +62,7 @@ I was able to infer that the government debt-to-gdp ratio in 2020 was highest in
 
 b. <div class="flourish-embed flourish-scatter" data-src="visualisation/7692158"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Considering that my audience are interested in information about Asia, I created another visualization focusing on countries across Asia alone. I chose to highlight the data for Japan and noticed that it remained a constant leader in the debts over the last 25 years. I highlighted this in the chart title, "Japan remains the highest debt country in Asia over the last 25 years", and gave the colour pink (Japan: #E7086E) to Japan, leaving the other countries in grey (#A9ADB0) to focus my viewers attention to Japan. 
+Considering that my audience are interested in information about Asia, I created another visualization focusing on countries across Asia alone. I chose to highlight the data for Japan and noticed that it remained a constant leader in the debts over the last 25 years. I highlighted this in the chart title, "JAPAN REMAINS THE HIGHEST DEBT COUNTRY IN ASIA OVER THE LAST 25 YEARS", and gave the colour pink (Japan: #E7086E) to Japan, leaving the other countries in grey (#A9ADB0) to focus my viewers attention to Japan. 
 
 
 ## __Summary__ ##
@@ -85,7 +85,7 @@ With the first two charts I was not able to infer the same information.
 
 a. I would like to find a way to control the opacity of the bubble colours depending on the value it denotes. That is, to change the intensity/saturation of colour based on the index value.
 
-b. I would re-order the regions/country in an alphabetical order. 
+b. I would re-order the regions/country in an alphabetical order. With the chart for countries in Asia, I would place Japan in the center of the y-axis rather than the last row (I learnt that to do so, I have to re arrange my data set in excel placing Japan in the center of the list of countries for Asia)
 
 ## __References__ ##
 
