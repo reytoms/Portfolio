@@ -53,6 +53,7 @@ Incorporating points from "What I would like to change" about the previous visua
 a. 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7691484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 First, I grouped the dataset by categorizing the different countries and grouping them into regions. I calculated the average index across all countries in each region and assigned the value to that particular region. I made a bubble chart using complementary colours to represent the different regions (Oceania: #FFE203, Europe: #781EA8, Asia: #FC6500, Americas: #2889C6, Africa: #008A2E). I created my own color palette from Adobe Color. I included a title on what the data is about, and highlighted the 1 region I wanted to focus on (This was based on the assumption that my viewers were interested in Asia). The title reads, "GOVERNMENT DEBT-TO-GDP RATIO ACROSS REGIONS: Asia ranks No. 2 following The Americas in 2020". I also added a subtitle decribing how the ratio was calculated. 
 
 This method allowed me to incorporate all the data and distinguish them using colours that did not have any relation indicating that they are categorical data. Moreover, including all the data in a single view of pane allowed my viewers to infer information and make meaningful comparisons across the regions. 
