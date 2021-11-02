@@ -50,8 +50,7 @@ Overall, on a scale of -10 to 10, I would rate this dataviz a score of 4 for bot
 
 Incorporating points from "What I would like to change" about the previous visualization, I created 2 bubble charts to visualize the data more clearly. 
 
-a.
-<div class="flourish-embed flourish-scatter" data-src="visualisation/7691484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+a. <div class="flourish-embed flourish-scatter" data-src="visualisation/7691484"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 First, I grouped the dataset by categorizing the different countries and grouping them into regions. I calculated the average index across all countries in each region and assigned the value to that particular region. I made a bubble chart using complementary colours to represent the different regions (Oceania: #FFE203, Europe: #781EA8, Asia: #FC6500, Americas: #2889C6, Africa: #008A2E). I created my own color palette from Adobe Color. I included a title on what the data is about, and highlighted the 1 region I wanted to focus on (This was based on the assumption that my viewers were interested in Asia). The title reads, "GOVERNMENT DEBT-TO-GDP RATIO ACROSS REGIONS: Asia ranks No. 2 following The Americas in 2020". I also added a subtitle decribing how the ratio was calculated. 
 
@@ -61,8 +60,7 @@ This method allowed me to incorporate all the data and distinguish them using co
 
 I was able to infer that the government debt-to-gdp ratio in 2020 was highest in the Americas, followed by Asia. The ratio for other regions are comparable and not significantly far away from Asia in the year 2020. I also noticed that out of all the regions across all the years. (1995 to 2020), the highest average index value was recorded for Asia (value=140.8 ) in the year 2000.
 
-b.
-<div class="flourish-embed flourish-scatter" data-src="visualisation/7692158"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+b. <div class="flourish-embed flourish-scatter" data-src="visualisation/7692158"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Considering that my audience are interested in information about Asia, I created another visualization focusing on countries across Asia alone. I chose to highlight the data for Japan and noticed that it remained a constant leader in the debts over the last 25 years. I highlighted this in the chart title, "Japan remains the highest debt country in Asia over the last 25 years", and gave the colour pink (Japan: #E7086E) to Japan, leaving the other countries in grey (#A9ADB0) to focus my viewers attention to Japan. 
 
@@ -83,13 +81,13 @@ The use of various contrasting colours to represent the regions allowed me to po
 With the first two charts I was not able to infer the same information.
 
 
-## __Future work:__ ##
+## __Future work__ ##
 
 a. I would like to find a way to control the opacity of the bubble colours depending on the value it denotes. That is, to change the intensity/saturation of colour based on the index value.
 
 b. I would re-order the regions/country in an alphabetical order. 
 
-## __References:__ ##
+## __References__ ##
 
 OECD (2021), General government debt (indicator). doi: 10.1787/a0528cc2-en (Accessed on 01 November 2021)
 
