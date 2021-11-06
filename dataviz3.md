@@ -1,6 +1,6 @@
 ## __Step one: Find a data visualization__
 
-[2020 Tokyo Olympics medal count: USA tops China in gold, silver, bronze and overall medal totals] (https://www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/)
+![2020 Tokyo Olympics medal count: USA tops China in gold, silver, bronze and overall medal totals] (https://www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/)
 
 
 ## __Step two: critique the data visualization__
@@ -13,14 +13,16 @@ Perceptibility, Aesthetics and Engagement are the sections where I would give a 
 
 ## __Step three: wireframe a solution__
 
+![Sketching](https://user-images.githubusercontent.com/92896969/140593416-54480ba8-cebb-4cfc-8188-c2cc0f4dabe8.jpg)
+
  
 Note: 
 
 a.	The sketch is not drawn for all countries. The goal was just to show how the data would be visualized. 
 
-b.	Content not written neatly. I will fix this in the final visualization by printing the title and other written data.
+b.	Content not written neatly and clearly. I will fix this in the final visualization by printing the title and other written data.
 
-## __Step four: Test the solution
+## __Step four: Test the solution__
 
 Below are response from different audiences:
 
