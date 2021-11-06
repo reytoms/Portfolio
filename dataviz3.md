@@ -1,6 +1,6 @@
 ## __Step one: Find a data visualization__
 
-![2020 Tokyo Olympics medal count: USA tops China in gold, silver, bronze and overall medal totals] (https://www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/)
+![2020 Tokyo Olympics medal count: USA tops China in gold, silver, bronze and overall medal totals](https://www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/)
 
 
 ## __Step two: critique the data visualization__
