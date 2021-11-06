@@ -19,19 +19,19 @@ Note:
 
 a.	The sketch is not drawn for all countries. The goal was just to show how the data would be visualized. 
 
-b.	Content not written in 
+b.	Content not written neatly. I will fix this in the final visualization by printing the title and other written data.
 
 ## __Step four: Test the solution
 
 Below are response from different audiences:
 
-**Question 1: Can you tell me what you think this is? **
+**Question 1: Can you tell me what you think this is?**
 
  Friend 1: Is this a medal tally for some games? Until I saw the title, I was confused which games this was referring to.
  
  Friend 2: Medal tally for the Olympics Tokyo 2020 
 
-**Question 2: Can you describe to me what this is telling you? **
+**Question 2: Can you describe to me what this is telling you?**
 
  Friend 1: It tells me that USA, China, and ROC topped the Olympic games 2020.
 
@@ -56,6 +56,10 @@ Below are response from different audiences:
 
 # __Take away:__
 
-The feedback was very valuable to me. I have decided to add a sorting button for the “Country” column as well. I will also try to use an appropriate palette to distinguish the gold and bronze better. Personally, I am not very content with my title. I feel like it is too wordy so I would like to change that as well.
+The feedback was very valuable to me. Though I noticed that the reviewers were not confused by the visualization, there were some key points that highlighted ways by which I could better the visualization. 
+
+Some key takeaways are:
+
+I have decided to add a sorting button for the “Country” column as well. I will also try to use an appropriate palette to distinguish the gold and bronze better. Personally, I am not very content with my title. I feel like it is too wordy so I would like to change that as well.
 
 
