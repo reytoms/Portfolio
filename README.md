@@ -21,7 +21,7 @@ I aspire to build appealing visuals with impressive and communicative data.
 
 [Assignment 2: Data visualization #1](/dataviz2.md)
 
-Assignment 3 & 4: Critique by Design
+[Assignment 3 & 4: Critique by Design](/dataviz3.md)
 
 Final Project: 
 Part I: Project proposal
