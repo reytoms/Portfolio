@@ -1,11 +1,11 @@
-## __Step one: Find a data visualization__
+# __Step one: Find a data visualization__
 
 ![2020 Tokyo Olympics medal count: USA tops China in gold, silver, bronze and overall medal totals](https://www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/)
 
 Being a huge fan of the Olympic Games, I was particularly interested in this visualization. I recall during the olympic season this year, I came across a similar visualization of the medal tally which was not visually appealing and easily interpretable. Before I could make sense of the numbers presented, the screen already transitioned to the next. I had to then find other sources for the same data, or wait until the channel displayed the visual again.
 Another reason I chose this was because it is a fairly recent data set. I trust that the viewers to my recreated visualization of the same data would enjoy refreshing their minds about the success of the recent Summer Olympics.
 
-## __Step two: critique the data visualization__
+# __Step two: critique the data visualization__
 
 Summary of the critique:
 
@@ -15,7 +15,7 @@ Perceptibility, Aesthetics and Engagement are the sections where I would give a 
 Noting these critique points, I would like to wireframe a new visualization for the same data.
  
 
-## __Step three: wireframe a solution__
+# __Step three: wireframe a solution__
 
 Some key changes I would like to incorporate in my wireframed solution:
 
@@ -35,7 +35,7 @@ a.	The sketch is not drawn for all countries. The goal was just to show how the 
 
 b.	Content not written neatly and clearly. I will fix this in the final visualization by printing the title and other written data.
 
-## __Step four: Test the solution__
+# __Step four: Test the solution__
 
 Below are response from different audiences:
 
@@ -68,7 +68,7 @@ Below are response from different audiences:
 
  Friend 2: I would increase the contrast between gold and bronze to make it more distinct.
 
-# __Take away:__
+## __Take away:__
 
 The feedback was very valuable to me. Though I noticed that the reviewers were not confused by the visualization, there were some key points that highlighted ways by which I could better the visualization. 
 
@@ -76,10 +76,21 @@ Key changes to be made:
 
 I have decided to add a sorting button for the “Country” column as well. I will also try to use an appropriate palette to distinguish the gold and bronze better. Personally, I am not very content with my title. I feel like it is too wordy so I would like to change that as well.
 
-## __Step five: Build your solution__
+# __Step five: Build your solution__
+
+
+
+
+
+
+
+
+
+
+## __Summary:__
 
 The final step is to incorporate the critique points and revisualize the data digitally.
-At first it was a little challenging to find the rish platform that could display the data, but eventually I learnt that it was possible from Tableau. 
+At first it was a little challenging to find the right platform that could display the data, but eventually I learnt that it was possible from Tableau. 
 
 a. I included the sum of gold, silver, bronze and total medals to the "Measure Values" category.
 
@@ -95,13 +106,13 @@ f. I made sure all my fonts and font sizes are relative and uniform to make the 
 
 e. I gave a title that clarifies the key result derived from visual that USA has a clear lead amongst all other participating countries.
 
-# __Challenges faced__
+## __Challenges faced__
 
 a. I was unable to add the number value inside the circle mark for each column. I will continue my research and try to find a way to make that possible.
 
 b. I could not add the flag icons to the country names. I trust it would be good to have that included, and would like to take that forward as part of my future work.
 
-## __References__ 
+# __References__ 
 
 1. Sports Staff, CBS. “2020 Tokyo Olympics Medal Count: USA Tops China in Gold, Silver, Bronze and Overall Medal Totals.” CBSSports.com, 8 Aug. 2021, www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/.
 
