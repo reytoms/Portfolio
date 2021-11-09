@@ -107,8 +107,15 @@ The final step is to incorporate the critique points and revisualize the data di
 </script>
 
 
-## __Summary:__
+From this visualization we are able to interpret the following information:
 
+a. USA tops the overall medal count as well as owns the highest number of gold, silver and bronze medals. 
+
+b. The total medal tally highlights USA in position 1 with 113 medals, China in position 2 with 88 medals and Russian Olympic Committee in position 3 with 71 medals.
+
+c. The sorting option in each column allows the viewer to analyze the data according to their requirement. The Country names can be dorted in alphabetical order (A to Z or Z to A), the following columns can be sort in either ascending or descending order.
+
+## __Summary:__
 
 At first it was a little challenging to find the right platform that could display the data, but eventually I learnt that it was possible from Tableau. I used the Text tables chart type to display the data.
 
@@ -135,7 +142,7 @@ j. I used a font size of 11 for all the column headers and a font size of 9 for 
 ## __Challenges faced & Future Work__
 
 
-a. I could not add the flag icons for the country names. I trust it would be good to have that included because it could add to the visual intuitiveness and aid those who cannot read the english language. I would like to consider this as part of my future work for the visualization.
+a. I could not add the flag icons for the country names. I trust it would be good to have that included because it would enhance the visual intuitiveness and aid those who cannot read the english language. I would like to consider this as part of my future work for the visualization.
 
 # __References__ 
 
