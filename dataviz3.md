@@ -1,15 +1,24 @@
 # __Step one: Find a data visualization__
 
-![2020 Tokyo Olympics medal count: USA tops China in gold, silver, bronze and overall medal totals](https://www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/)
+Being a huge fan of the Olympic Games, I was particularly interested in working with the Tokyo 2020 Olympics visualization. I recall during the olympic season this year, I came across a similar visualization of the medal tally which was neither visually appealing nor easily interpretable. Before I could make sense of the numbers presented, the screen already transitioned to the next. I had to then find other sources for the same data, or wait until the channel displayed the visual again.
 
-Being a huge fan of the Olympic Games, I was particularly interested in this visualization. I recall during the olympic season this year, I came across a similar visualization of the medal tally which was not visually appealing and easily interpretable. Before I could make sense of the numbers presented, the screen already transitioned to the next. I had to then find other sources for the same data, or wait until the channel displayed the visual again.
-Another reason I chose this was because it is a fairly recent data set. I trust that the viewers to my recreated visualization of the same data would enjoy refreshing their minds about the success of the recent Summer Olympics.
+Another reason I chose this is because it is a fairly recent data set. I trust that the viewers to my recreated visualization of the same data would enjoy refreshing their minds about the success of the recent Summer Olympics.
+
+Here is a screenshot of the original data visualization:
+
+<img width="681" alt="Screen Shot 2021-11-09 at 11 27 32 AM" src="https://user-images.githubusercontent.com/92896969/140964288-71493b9b-3c4e-4ba3-a0de-c413d274fd39.png">
+
+Link to the visualization:
+![2020 Tokyo Olympics medal count: USA tops China in gold, silver, bronze and overall medal totals](https://www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/)
 
 # __Step two: critique the data visualization__
 
 Summary of the critique:
 
-Noting that the intended audience are followers/fans of the Olympic Games, I would consider the visualization as useful, though not appealing. It does give the information without discrepancies or much confusion as it includes required information in terms of the medal counts for the different countries. I would also like to highlight that "no medal" is denoted by a “0” rather than a blank space. A blank space would open room for confusion. I did not notice any incorrect information or inaccurate comparisons made. However, I had to confirm this based on research across other websites. There were no references indicated in the chart. In terms of intuitiveness, though the data in the chart is not too hard to understand, the visualization is not inviting or visually intuitive. 
+I would consider the intended audience of this visualization as the followers/fans of the Olympic Games, delegates from the participating countries, and the athletes. 
+The visualization though useful, is not very intuitive or appealing. 
+
+The information without discrepancies or much confusion as it includes required information in terms of the medal counts for the different countries. I would also like to highlight that "no medal" is denoted by a “0” rather than a blank space. A blank space would open room for confusion. I did not notice any incorrect information or inaccurate comparisons made. However, I had to confirm this based on research across other websites. There were no references indicated in the chart. In terms of intuitiveness, though the data in the chart is not too hard to understand, the visualization is not inviting or visually intuitive. 
 Perceptibility, Aesthetics and Engagement are the sections where I would give a comparitively lower rating. If the comparison was just between China and USA (as the title states), then I would give a higher perceptibility rating because the count of medals for both countries are topping the list. However, considering that the intended audience are fans of Olympic Games in general (not limited to USA and China), I would give a relatively lower score because the title is somewhat inaccurate/misleading. Viewers who are not interested in the comparison between China and USA, might not care about the visualization. Furthermore, if a viewer was interested only in the numbers of a particular country, they would have to scroll all the way up again because as the chart rolls lower, the colomn titles are hidden. This could leave the viewer confused about what the number in each column represents unless he scrolls back to the top and reads the title again. In terms of aesthetics and engagement, the visualization does not include preattentive visual features. I was distracted by flag icons rather than the medal tally. In addition, the data is not easily comparable from the chart (too many numbers). In case a viewer wants to know the order of countries by the number of gold medals alone, the visualization is not user-friendly (not interactive).
 
 Noting these critique points, I would like to wireframe a new visualization for the same data.
