@@ -96,17 +96,15 @@ I have decided to add a sorting button for the “Country” column as well. I w
 
 The final step is to incorporate the critique points and revisualize the data digitally. Below is the revisualized data.
 
-
-<div class='tableauPlaceholder' id='viz1636484556840' style='position: relative'><noscript><a href='#'><img alt='2020  Tokyo Olympics:  USA leaps ahead of the medal tally  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NW&#47;NW77J4WNN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;NW77J4WNN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NW&#47;NW77J4WNN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1636484996808' style='position: relative'><noscript><a href='#'><img alt='2020  Tokyo Olympics:  USA leaps ahead of the medal tally  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;RQ&#47;RQJHBHCC7&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;RQJHBHCC7' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;RQ&#47;RQJHBHCC7&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
- var divElement = document.getElementById('viz1636484556840');                    
+ var divElement = document.getElementById('viz1636484996808');                    
  var vizElement = divElement.getElementsByTagName('object')[0];                    
  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
  var scriptElement = document.createElement('script');                    
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
 
 ## __Summary:__
 
@@ -134,6 +132,7 @@ i. Noting the medal icon colors are darker especially for the bronze, I bolded t
 j. I used a font size of 11 for all the column headers and a font size of 9 for the country names and the medal counts.
 
 ## __Challenges faced & Future Work__
+
 
 a. I could not add the flag icons for the country names. I trust it would be good to have that included because it could add to the visual intuitiveness and aid those who cannot read the english language. I would like to consider this as part of my future work for the visualization.
 
