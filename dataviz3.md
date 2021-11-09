@@ -125,6 +125,10 @@ g. I made sure all my fonts and font sizes are relative and uniform to make the 
 
 h. I gave a title that clarifies the key result derived from the visual. The title reads, "Olympics Tokyo 2020: USA leaps ahead of the medal tally"
 
+i. Noting the medal icon colors are darker especially for the bronze, I bolded the numbers within the icons for clarity. I noticed that this left the counts stand out from the rest of the data, so I bolded all the text to make it uniform. I decided to do this because I consider all data in the chart of equal value - country names as well as count of each medal type and total.
+
+j. I used a font size of 11 for all the column headers and a font size of 10 for the country names and the medal counts.
+
 ## __Challenges faced & Future Work__
 
 a. I could not add the flag icons for the country names. I trust it would be good to have that included because it could add to the visual intuitiveness and aid those who cannot read the english language. I would like to consider this as part of my future work for the visualization.
