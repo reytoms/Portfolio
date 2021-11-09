@@ -108,6 +108,8 @@ The final step is to incorporate the critique points and revisualize the data di
 
 
 
+### __Conclusion__
+
 From this visualization we are able to interpret the following information:
 
 a. USA tops the overall medal count as well as owns the highest number of gold, silver and bronze medals. 
