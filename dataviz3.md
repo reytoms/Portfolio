@@ -127,7 +127,7 @@ h. I gave a title that clarifies the key result derived from the visual. The tit
 
 i. Noting the medal icon colors are darker especially for the bronze, I bolded the numbers within the icons for clarity. I noticed that this left the counts stand out from the rest of the data, so I bolded all the text to make it uniform. I decided to do this because I consider all data in the chart of equal value - country names as well as count of each medal type and total.
 
-j. I used a font size of 11 for all the column headers and a font size of 10 for the country names and the medal counts.
+j. I used a font size of 11 for all the column headers and a font size of 9 for the country names and the medal counts.
 
 ## __Challenges faced & Future Work__
 
