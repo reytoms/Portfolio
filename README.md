@@ -24,7 +24,7 @@ I aspire to build appealing visuals with impressive and communicative data.
 [Assignment 3 & 4: Critique by Design](/dataviz3.md)
 
 Final Project: 
-Part I: Project proposal
+[Part I: Project proposal](/Project_part1.md)
 
 Part II: Sketches, wireframes, storyboards
 
