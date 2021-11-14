@@ -47,45 +47,65 @@ With international borders reopened, let's splurge it on ourselves with a vacati
 
 ## Sketches to help visualize the data
 
-1. __Picking a destination from over 190 countries worldwide
+1. Picking a destination from over 190 countries worldwide
 <img width="409" alt="Screen Shot 2021-11-14 at 4 59 44 PM" src="https://user-images.githubusercontent.com/92896969/141700267-3f496fcc-d4a6-4998-838d-802e8ec8a3f8.png">
 
 
 
-2.__Top 10 countries by number of visitors
+2. Top 10 countries by number of visitors
 
 <img width="406" alt="Screen Shot 2021-11-14 at 5 01 22 PM" src="https://user-images.githubusercontent.com/92896969/141700306-8346d97b-4572-46bb-a216-af175e99fbd8.png">
 
 
 
-3. __Method of elimination from the top 10 depending on duration of travel
+3. Method of elimination from the top 10 depending on duration of travel
 <img width="402" alt="Screen Shot 2021-11-14 at 5 03 11 PM" src="https://user-images.githubusercontent.com/92896969/141700359-0011f39a-69a3-46b1-a85d-059619949cff.png">
 
 
-4. __Currency comparison of USD versus Euros
+4. Currency comparison of USD versus Euros
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/92896969/141700329-edcaf69f-0a54-4d9e-9e03-52336a958765.png">
 
-5. __Tourist attractions in France
+5. Tourist attractions in France
 
 <img width="622" alt="Screen Shot 2021-11-14 at 5 31 31 PM" src="https://user-images.githubusercontent.com/92896969/141701187-7b0e3996-4969-489e-8f22-e6a11306427a.png">
 
 ## Data
 
-
-I am using 3 main data as part of this project:
+As of now, I have used 2 main datasets as part of this project:
 
 a. The statistics in decline of travel since COVID-19
 
-b. The data set indicating the top 10 countries for tourism
+b. The data set of the top 10 countries for tourism
 
-c. Data about the things to do in France 
+Note: The data being used in captured as links within the respective sections of the project.
 
-Note: The data being used in captured within the sections of the project.
+I would like to use these data sets as my primary source for investigation purpose and to fetch statistical numbers of value regrading travel and tourism. Despite  these numbers being useful to my work, I expect to be identifying additional features by myself. To build on my project I will be using more arbitrary information such as the duration of travel to the different countries of choice, citizens of which all countries require visa to visit France, things for tourists to do in France, and commute expenses (bus rate versus train rate versus cab rate) amongst other things. As I continue to work on this project, I will be referencing the data where required.
+
+As of now some of the effective data visualizations I would like to embed include:
+Bar charts
+Bubble charts
+Geographic Map
+Simple tables of comparison
 
 ## Method and Medium
 
-All datasets - method and medium to present
+I would like to use Shorthand for the final compilation of my story. From a quick research of the tool, I believe that the single page view of it will keep my story rolling by a simple scroll. I hope to use interactive charts with appealing colors, fonts, and an apt-title. I believe embedding images create personability with the viewers, so I might consider that as well.
+
+Below is my planned methodology for the successful completion of the project:
+
+Data Collection
+Sketching of visualization
+Peer review to ensure my visuals are clear
+Shorthand page creation with the updated visuals
+Refining the story using text, lebelling, colors, story arc and references to enhance clarity and appeal
+Gather additional feedback
+Incorporate changes as required
+Finals Thoughts
+
+As I continue to work on my story, I would also like to include a section to document the challenges I face and how I overcome them. I consider that a good self-reminder and a way to connect with the viewers of my portfolio. 
+Noting that this is my story, it could be biased to my likes and preferences. I will note that as a comment. However, the method of arriving at the conclusion is what I would like for my viewers to take away. That is, how to plan your vacations and what features should be considered.
+
 
 
 ### References:
