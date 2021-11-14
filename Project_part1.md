@@ -59,12 +59,14 @@ With international borders reopened, let's splurge it on ourselves with a vacati
 
 
 3. Method of elimination from the top 10 depending on duration of travel
+4. 
 <img width="402" alt="Screen Shot 2021-11-14 at 5 03 11 PM" src="https://user-images.githubusercontent.com/92896969/141700359-0011f39a-69a3-46b1-a85d-059619949cff.png">
 
 
 4. Currency comparison of USD versus Euros
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/92896969/141700329-edcaf69f-0a54-4d9e-9e03-52336a958765.png">
+
 
 5. Tourist attractions in France
 
