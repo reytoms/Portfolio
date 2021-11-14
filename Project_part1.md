@@ -90,7 +90,7 @@ Simple tables of comparison
 
 ## Method and Medium
 
-I would like to use Shorthand for the final compilation of my story. From a quick research of the tool, I believe that the single page view of it will keep my story rolling by a simple scroll. I hope to use interactive charts with appealing colors, fonts, and an apt-title. I believe embedding images create personability with the viewers, so I might consider that as well.
+I would like to use Shorthand for the final compilation of my story. From a quick research of the tool, I believe that the single page view of it will keep my story rolling by a simple scroll. I hope to use interactive charts with appealing colors (especially to create a tour map of France), fonts, and an apt-title. I believe embedding images create personability with the viewers, so I might consider that as well.
 
 Below is my planned methodology for the successful completion of the project:
 
@@ -107,8 +107,4 @@ As I continue to work on my story, I would also like to include a section to doc
 Noting that this is my story, it could be biased to my likes and preferences. I will note that as a comment. However, the method of arriving at the conclusion is what I would like for my viewers to take away. That is, how to plan your vacations and what features should be considered.
 
 
-
-### References:
-
-1. https://c8.alamy.com/comp/FRXRPG/attractive-france-travel-map-with-attractions-and-specialties-FRXRPG.jpg
 
