@@ -1,6 +1,7 @@
 ## __THE HOLIDAY SEASON IS UPON US__
 
 ![christmas-g3cc31b837_640](https://user-images.githubusercontent.com/92896969/141665987-ef348c89-5e69-4404-a7cd-a02f3c5ac8e4.jpg)
+
 Image Source: [Pixabay](https://pixabay.com/images/id-2971961/) 
 
 # Outline to your Christmas Holiday
@@ -22,7 +23,7 @@ d. Comparison between my top 2 choices: As a student, I would look at data relat
 
 e. I will try to quantify the benefits and drawbacks to come to a conclusion
 
-f. Cinclusion: I have decided to visit _____________ this holiday season!
+f. Conclusion: I have decided to visit _____________ this holiday season!
 
 
 
