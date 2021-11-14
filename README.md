@@ -19,12 +19,12 @@ I aspire to build appealing visuals with impressive and communicative data.
 
 #### __Portfolio Contents__
 
-[Assignment 2: Data visualization #1](/dataviz2.md)
+[Visualization of government debt-to-GDP ratios of the OECD countries.](/dataviz2.md)
 
-[Assignment 3 & 4: Critique by Design](/dataviz3.md)
+[Revisualized medal tally of the Tokyp Olympics 2020](/dataviz3.md)
 
 Final Project: 
-[Part I: Project proposal](/Project_part1.md)
+[Follow me as I develop my final project](/Project_part1.md)
 
 Part II: Sketches, wireframes, storyboards
 
