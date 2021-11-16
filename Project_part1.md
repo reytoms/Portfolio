@@ -10,7 +10,11 @@ The most exciting time of the year is here - The holiday season is upon us!
 
 Since the onset of COVID-19, many of us have not taken a vacation! The decline in travel has devasted both the economy of the country and eliminated job opportunities. But on a more personal note, I feel burned-out. I am sure you would agree with me on that.
 
-As a reader, I want to convince people to take a vacation this Christmas, because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
+[Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
+
+The data realeased by Centers for diseases and control prevention highlights that 40% of US adults suffered from elevated adversarial mental health conditions during early pandemic. Younger adults, racial/ethnic minorities, and essential workers, reported having experienced disproportionately worse mental health outcomes, increased substance use, and elevated suicidal ideation.
+
+As a narrator, I want to convince people to take a vacation this Christmas, because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
 
 [Statistics of decline in 2020 travel](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
@@ -78,13 +82,17 @@ I would like to add more elements to this section and create a single visualizat
 
 ## Data
 
-As of now, I have used 2 main datasets as part of this project:
+As of now, I have used 3 main datasets as part of this project:
 
-a. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
+a. [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
+
+This data indicates the mental health conditions suffered by the US population during the pandemic.
+
+b. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
 Using this data source, I would like to create a visualization of how travel and tourism economy have dropped since 2020. I would like to use a stick chart to show the decline from pre-covid to post.
 
-b. [The data set of the top 10 countries for tourism](https://www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html)
+c. [The data set of the top 10 countries for tourism](https://www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html)
 
 This data set identifies the top countries to visit this Christmas. 
 
