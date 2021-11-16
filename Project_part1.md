@@ -96,6 +96,8 @@ a. [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.ht
 
 This data is extracted from the Centers of Diseases Control and prevention website. The data indicates the mental health conditions suffered by the US population during the pandemic. 
 
+[Data Extract that will be used for visualization](/US Mental Health Data_Finals.xlsx)
+
 b. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
 I was able to extract numbers pertaining to the decline in US Travel economy for 2020 from us.travel.org website. Using this data, I would like to create a visualization of how travel and tourism economy have dropped since 2020. I would like to use a stick chart to show the decline from pre-covid to post.
