@@ -8,10 +8,10 @@ Image Source: [Pixabay](https://pixabay.com/images/id-2971961/)
 
 The most exciting time of the year is here - The holiday season is upon us!
 
-Since the onset of COVID-19, many of us have not taken a vacation! The decline in travel has devasted both the economy of the country and eliminated job opportunities. But on a more personal note, I feel burned-out. I am sure you would agree with me on that.
+Since the onset of COVID-19, many of us have not taken a vacation! The decline in travel has devasted both the economy of the country and eliminated job opportunities. 
+[Econominc and travel impact of decline in US Travel 2020](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
-[Data indicating decline in 2020 US Travel](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
- 
+But on a more personal note, I feel burned-out. 
 The data realeased by Centers for diseases and control prevention highlights that 40% of US adults suffered from elevated adversarial mental health conditions during early pandemic. Younger adults, racial/ethnic minorities, and essential workers, reported having experienced disproportionately worse mental health outcomes, increased substance use, and elevated suicidal ideation.
 [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
@@ -67,12 +67,12 @@ From the sketches in 1 and 2, it looks like France is the most visited country b
 
 3. It could be challenging to choose a country from many options. Hence, it is important to reduce the options by the method of elimination. Below are some of the points to consider for elimination:
 
- a. Based on duration of travel
+  a. Based on duration of travel
  
 <img width="402" alt="Screen Shot 2021-11-14 at 5 03 11 PM" src="https://user-images.githubusercontent.com/92896969/141700359-0011f39a-69a3-46b1-a85d-059619949cff.png">
 
 
-b. Economic feasibilty
+ b. Economic feasibilty
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/92896969/141700329-edcaf69f-0a54-4d9e-9e03-52336a958765.png">
 
@@ -80,7 +80,6 @@ I would like to add more elements to this section and create a single visualizat
 
 4. Finally, a highlight of the tourist attractions in the city of choice. In this sketching I have included a tour guide map for France only. But in my final project I would include more countries from the available options.
 
-<img width="622" alt="Screen Shot 2021-11-14 at 5 31 31 PM" src="https://user-images.githubusercontent.com/92896969/141701187-7b0e3996-4969-489e-8f22-e6a11306427a.png">
 
 ## Data
 
@@ -88,7 +87,7 @@ As of now, I have used 3 main datasets as part of this project:
 
 a. [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
-This data is extracted from the Centers of Diseases Control and prevention website. The data indicates the mental health conditions suffered by the US population during the pandemic. From this data  
+This data is extracted from the Centers of Diseases Control and prevention website. The data indicates the mental health conditions suffered by the US population during the pandemic. 
 
 b. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
@@ -96,9 +95,9 @@ Using this data source, I would like to create a visualization of how travel and
 
 c. [The data set of the top 10 countries for tourism](https://www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html)
 
-This data set identifies the top countries to visit this Christmas. 
+This data set identifies the top countries to visit this holiday season. 
 
-Note: The data being used is captured as links within the respective sections of the project.
+Note: The data being used is captured as links within the respective sections of the project with detailed analysis.
 
 I would like to use these data sets as my primary source for investigation purpose and to fetch statistical numbers of value regrading travel and tourism. Despite  these numbers being useful to my work, I expect to be identifying additional features by myself. To build on my project I will be using more arbitrary information such as the duration of travel to the different countries of choice, citizens of which all countries require visa to visit specific destinations, tourist attractions in the destination of choice, and commute expenses (bus rate versus train rate versus cab rate) amongst other things. As I continue to work on this project, I will be referencing the data where required.
 
@@ -135,6 +134,8 @@ Noting that this is my story, it could be biased to my likes and preferences. I 
 
 ### References
 
-1. Czeisler, Mark É. “Mental Health, Substance Use, and Suicidal Ideation during the COVID-19 Pandemic — United States, June 24–30, 2020.” MMWR. Morbidity and Mortality Weekly Report, vol. 69, no. 32, 14 Aug. 2020, www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm, 10.15585/mmwr.mm6932a1.
-‌
+1. Atlas, World. “The World’s Most Visited Countries.” WorldAtlas, 15 June 2016, www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html.
+
+2. Czeisler, Mark É. “Mental Health, Substance Use, and Suicidal Ideation during the COVID-19 Pandemic — United States, June 24–30, 2020.” MMWR. Morbidity and Mortality Weekly Report, vol. 69, no. 32, 14 Aug. 2020, www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm, 10.15585/mmwr.mm6932a1.
+
 
