@@ -63,7 +63,6 @@ Let's together plan a vacation.
 
 <img width="409" alt="Screen Shot 2021-11-14 at 4 59 44 PM" src="https://user-images.githubusercontent.com/92896969/141700267-3f496fcc-d4a6-4998-838d-802e8ec8a3f8.png">
 
-
 2. Top 10 countries by number of visitors
 
 <img width="406" alt="Screen Shot 2021-11-14 at 5 01 22 PM" src="https://user-images.githubusercontent.com/92896969/141700306-8346d97b-4572-46bb-a216-af175e99fbd8.png">
@@ -71,18 +70,16 @@ Let's together plan a vacation.
 From the sketches in 1 and 2, it looks like France is the most visited country by tourists. 
 
 3. It could be challenging to choose a country from many options. Hence, it is important to reduce the options by the method of elimination. Below are some of the points to consider for elimination:
-
-  a. Based on duration of travel
- 
-<img width="402" alt="Screen Shot 2021-11-14 at 5 03 11 PM" src="https://user-images.githubusercontent.com/92896969/141700359-0011f39a-69a3-46b1-a85d-059619949cff.png">
-
-
- b. Economic feasibilty
-
-<img width="399" alt="image" src="https://user-images.githubusercontent.com/92896969/141700329-edcaf69f-0a54-4d9e-9e03-52336a958765.png">
+  Based on duration of travel
+  
+  <img width="402" alt="Screen Shot 2021-11-14 at 5 03 11 PM" src="https://user-images.githubusercontent.com/92896969/141700359-0011f39a-69a3-46b1-a85d-059619949cff.png">
+  
+  Economic feasibilty
+  
+  <img width="399" alt="image" src="https://user-images.githubusercontent.com/92896969/141700329-edcaf69f-0a54-4d9e-9e03-52336a958765.png">
 
 I would like to add more elements to this section and create a single visualization with data for multiple countries. I would have a filter option to choose the category of comparison such as the feature element (currency, or travel duration), and the respective country name.
-
+  
 4. Finally, a highlight of the tourist attractions in the city of choice. In this sketching I have included a tour guide map for France only. But in my final project I would include more countries from the available options.
 
 <img width="626" alt="Screen Shot 2021-11-16 at 2 16 26 PM" src="https://user-images.githubusercontent.com/92896969/142050813-745bb32c-e218-4f8b-84d6-bd9a862521bd.png">
@@ -95,8 +92,6 @@ As of now, I have used 3 main datasets as part of this project:
 a. [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
 This data is extracted from the Centers of Diseases Control and prevention website. The data indicates the mental health conditions suffered by the US population during the pandemic. 
-
-[Data Extract that will be used for visualization](/US Mental Health Data_Finals.xlsx)
 
 b. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
