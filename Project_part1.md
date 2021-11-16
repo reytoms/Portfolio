@@ -46,29 +46,33 @@ With international borders reopened, let's spend it on ourselves with a vacation
 
 ## Sketches to help visualize the data
 
+Let's together plan a vacation!
+
 1. Picking a destination from over 190 countries worldwide
 
 <img width="409" alt="Screen Shot 2021-11-14 at 4 59 44 PM" src="https://user-images.githubusercontent.com/92896969/141700267-3f496fcc-d4a6-4998-838d-802e8ec8a3f8.png">
-
 
 
 2. Top 10 countries by number of visitors
 
 <img width="406" alt="Screen Shot 2021-11-14 at 5 01 22 PM" src="https://user-images.githubusercontent.com/92896969/141700306-8346d97b-4572-46bb-a216-af175e99fbd8.png">
 
+From the sketches in 1 and 2, it looks like France is the most visited country by tourists. 
 
+3. It could be challenging to choose a country from many options. Hence, it is important to reduce the options by the method of elimination. 
 
-3. Method of elimination from the top 10 depending on duration of travel
+ a. Based on duration of travel
  
 <img width="402" alt="Screen Shot 2021-11-14 at 5 03 11 PM" src="https://user-images.githubusercontent.com/92896969/141700359-0011f39a-69a3-46b1-a85d-059619949cff.png">
 
 
-4. Currency comparison of USD versus Euros
+b. Economic feasibilty
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/92896969/141700329-edcaf69f-0a54-4d9e-9e03-52336a958765.png">
 
+I would like to add more elements to this section and create a single visualization with data for multiple countries. I would have a filter option to choose the category of comparison (feature element such as currency, or travel duration) and the country name.
 
-5. Tourist attractions in France
+4. Finally, the tourist attractions in the city of choice. In this sketching I have included a tour guide map for France only. But in my final project I would include more countries from the available options.
 
 <img width="622" alt="Screen Shot 2021-11-14 at 5 31 31 PM" src="https://user-images.githubusercontent.com/92896969/141701187-7b0e3996-4969-489e-8f22-e6a11306427a.png">
 
@@ -78,19 +82,21 @@ As of now, I have used 2 main datasets as part of this project:
 
 a. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
-Using this data source, I would like to create a visualization of how travel and tourism economy have dropped since 2020. 
+Using this data source, I would like to create a visualization of how travel and tourism economy have dropped since 2020. I would like to use a stick chart to show the decline from pre-covid to post.
 
 b. [The data set of the top 10 countries for tourism](https://www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html)
 
-This data set will be used to identify the top countries to visit this Christmas. I would like to present it to my viewers with a visual appeal to be able to choose their destination.
+This data set identifies the top countries to visit this Christmas. 
 
 Note: The data being used is captured as links within the respective sections of the project.
 
-I would like to use these data sets as my primary source for investigation purpose and to fetch statistical numbers of value regrading travel and tourism. Despite  these numbers being useful to my work, I expect to be identifying additional features by myself. To build on my project I will be using more arbitrary information such as the duration of travel to the different countries of choice, citizens of which all countries require visa to visit France, things for tourists to do in France, and commute expenses (bus rate versus train rate versus cab rate) amongst other things. As I continue to work on this project, I will be referencing the data where required.
+I would like to use these data sets as my primary source for investigation purpose and to fetch statistical numbers of value regrading travel and tourism. Despite  these numbers being useful to my work, I expect to be identifying additional features by myself. To build on my project I will be using more arbitrary information such as the duration of travel to the different countries of choice, citizens of which all countries require visa to visit specific destinations, tourist attractions in the destination of choice, and commute expenses (bus rate versus train rate versus cab rate) amongst other things. As I continue to work on this project, I will be referencing the data where required.
 
 As of now some of the effective data visualizations I would like to embed include:
 
 Bar charts
+
+Stick Chart
 
 Bubble charts
 
@@ -108,10 +114,10 @@ Below is my planned methodology for the successful completion of the project:
 2. Sketching of visualization
 3. Peer review to ensure my visuals are clear - user interviews
 4. Shorthand page creation with the updated visuals
-5. Refining the story using text, lebelling, colors, story arc and references to enhance clarity and appeal
+5. Refining the story using text, labelling, colors, story arc and references to enhance clarity and appeal
 6. Gather additional feedback
 7. Incorporate changes as required
-8.Finals Thoughts
+8. Finals Thoughts
 
 As I continue to work on my story, I would also like to include a section to document the challenges I face and how I overcome them. I consider that a good self-reminder and a way to connect with the viewers of my portfolio. 
 
