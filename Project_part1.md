@@ -12,11 +12,10 @@ Since the onset of COVID-19, many of us have not taken a vacation! The decline i
 [Economic and travel impact of decline in US Travel 2020](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
 But on a more personal note, I feel burned-out. 
-The data realeased by Centers for diseases and control prevention highlights that 40% of US adults suffered from elevated adversarial mental health conditions during early pandemic. Younger adults, racial/ethnic minorities, and essential workers, reported having experienced disproportionately worse mental health outcomes, increased substance use, and elevated suicidal ideation.
+The data realeased by Centers of Diseases Control and prevention highlights that 40% of US adults suffered from elevated adversarial mental health conditions during early pandemic. Younger adults, racial/ethnic minorities, and essential workers, reported having experienced disproportionately worse mental health outcomes, increased substance use, and elevated suicidal ideation.
 [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
-A snippet of the data values I would like to consider to narrate my story.
-<img width="8" alt="Screen Shot 2021-11-16 at 1 45 09 PM" src="https://user-images.githubusercontent.com/92896969/142050186-9844b13c-ecc5-423b-8d7b-4cee862d90ab.png">
+ *Note the data has been extracted on an excel sheet and uploaded under files in repository
 
 As a narrator, I want to convince people to take a vacation this Christmas because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
 
@@ -120,11 +119,11 @@ Simple tables of comparison
 
 ## Method and Medium
 
-I would like to use Shorthand for the final compilation of my story. From a quick research of the tool, I believe that the single page view of it will keep my story rolling by a simple scroll. I hope to use interactive charts with appealing colors (especially to create a tour map of France), fonts, and an apt-title. I believe embedding images create personability with the viewers, so I might consider that as well.
+I would like to use Shorthand for the final compilation of my story. From a quick research of the tool, I believe that the single page view of it will keep my story rolling by a simple scroll unlike powerpoint presentations where I have to switch over to the next slide for continuation. I hope to use interactive charts with appealing colors (especially to create a tour map of the destination), fonts, and an apt-title. I believe embedding images create personability with the viewers, so I might consider that as well.
 
 Below is my planned methodology for the successful completion of the project:
 
-1. Additional Data Collection
+1. Data Collection
 2. Sketching of visualization
 3. Peer review to ensure my visuals are clear - user interviews
 4. Shorthand page creation with the updated visuals
