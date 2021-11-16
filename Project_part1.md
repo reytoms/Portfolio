@@ -9,7 +9,7 @@ Image Source: [Pixabay](https://pixabay.com/images/id-2971961/)
 The most exciting time of the year is here - The holiday season is upon us!
 
 Since the onset of COVID-19, many of us have not taken a vacation! The decline in travel has devasted both the economy of the country and eliminated job opportunities. 
-[Econominc and travel impact of decline in US Travel 2020](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
+[Economic and travel impact of decline in US Travel 2020](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
 But on a more personal note, I feel burned-out. 
 The data realeased by Centers for diseases and control prevention highlights that 40% of US adults suffered from elevated adversarial mental health conditions during early pandemic. Younger adults, racial/ethnic minorities, and essential workers, reported having experienced disproportionately worse mental health outcomes, increased substance use, and elevated suicidal ideation.
@@ -83,6 +83,8 @@ I would like to add more elements to this section and create a single visualizat
 
 4. Finally, a highlight of the tourist attractions in the city of choice. In this sketching I have included a tour guide map for France only. But in my final project I would include more countries from the available options.
 
+<img width="626" alt="Screen Shot 2021-11-16 at 2 16 26 PM" src="https://user-images.githubusercontent.com/92896969/142050813-745bb32c-e218-4f8b-84d6-bd9a862521bd.png">
+
 
 ## Data
 
@@ -94,7 +96,7 @@ This data is extracted from the Centers of Diseases Control and prevention websi
 
 b. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
-Using this data source, I would like to create a visualization of how travel and tourism economy have dropped since 2020. I would like to use a stick chart to show the decline from pre-covid to post.
+I was able to extract numbers pertaining to the decline in US Travel economy for 2020 from us.travel.org website. Using this data, I would like to create a visualization of how travel and tourism economy have dropped since 2020. I would like to use a stick chart to show the decline from pre-covid to post.
 
 c. [The data set of the top 10 countries for tourism](https://www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html)
 
