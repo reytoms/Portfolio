@@ -16,6 +16,9 @@ The data realeased by Centers of Diseases Control and prevention highlights that
 [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
  *Note the data has been extracted on an excel sheet and uploaded under files in repository
+ 
+ <img width="1390" alt="Screen Shot 2021-11-16 at 1 45 26 PM" src="https://user-images.githubusercontent.com/92896969/142061154-5518b370-efd7-43e5-8e65-25d688d46ef3.png">
+
 
 As a narrator, I want to convince people to take a vacation this Christmas because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
 
