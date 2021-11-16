@@ -9,12 +9,13 @@ Image Source: [Pixabay](https://pixabay.com/images/id-2971961/)
 The most exciting time of the year is here - The holiday season is upon us!
 
 Since the onset of COVID-19, many of us have not taken a vacation! The decline in travel has devasted both the economy of the country and eliminated job opportunities. But on a more personal note, I feel burned-out. I am sure you would agree with me on that.
+
+[Data indicating decline in 2020 US Travel](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
  
 The data realeased by Centers for diseases and control prevention highlights that 40% of US adults suffered from elevated adversarial mental health conditions during early pandemic. Younger adults, racial/ethnic minorities, and essential workers, reported having experienced disproportionately worse mental health outcomes, increased substance use, and elevated suicidal ideation.
 [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
 As a narrator, I want to convince people to take a vacation this Christmas, because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
-[2020 statistics of decline in travel](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
 I would like to use the below elements to narrate my story.
 
@@ -25,11 +26,14 @@ Here is the reality about the timeline of my mental health that deteriorated sin
 
 
 #### Conflict: 
-Christmas 2020 was celebrated amongst less than 5 people within closed doors. With effective vaccination drives in 2021, international borders have re-opened for us to visit our dear ones across oceans. Let's plan better for Christmas 2021.
-As exciting as it is to plan a vacation, it is also hectic and confusing to pick just one out of the 195 beautiful countries across the globe. Though it is a challenge we all face oftentimes, we continue to deal with it. But this time, I am going to turn my challenge into an opportunity.
-From the lessons we've learned as part of 'Telling Stories with Data' course, I have decided to make the only challenging part about vacations as interesting as I can. I would like to take you with me on this journey as I choose my destination for Christmas 2021. Perhaps, if you align with me through this process, we could be taking a holiday together!
 
-As I narrate the story, I would like to consider the following points to derive a conclusion:
+With effective vaccination drives in 2021, international borders have re-opened for us to visit our dear ones across oceans. Though Christmas 2020 was celebrated within closed doors, let's plan better for Christmas 2021.
+
+As exciting as it is to plan a vacation, it could also be hectic and confusing to pick just one out of the 195 beautiful countries across the globe. With the help of visualization, I am going to turn this challenge into an opportunity.
+
+I would like to take you with me on this journey as I choose my destination for Christmas 2021. Perhaps, if you align with me through this process, we could be taking a holiday together!
+
+I would like to consider the following points to derive a conclusion:
 
 a. A visual of major tourist destinations across the globe. This is to give an idea about all the possible options that we have. But, not all countries are Christmas friendly. That takes me to my next step.
 
@@ -48,7 +52,7 @@ With international borders reopened, let's spend it on ourselves with a vacation
 
 ## Sketches to help visualize the data
 
-Let's together plan a vacation!
+Let's together plan a vacation.
 
 1. Picking a destination from over 190 countries worldwide
 
@@ -61,7 +65,7 @@ Let's together plan a vacation!
 
 From the sketches in 1 and 2, it looks like France is the most visited country by tourists. 
 
-3. It could be challenging to choose a country from many options. Hence, it is important to reduce the options by the method of elimination. 
+3. It could be challenging to choose a country from many options. Hence, it is important to reduce the options by the method of elimination. Below are some of the points to consider for elimination:
 
  a. Based on duration of travel
  
@@ -72,9 +76,9 @@ b. Economic feasibilty
 
 <img width="399" alt="image" src="https://user-images.githubusercontent.com/92896969/141700329-edcaf69f-0a54-4d9e-9e03-52336a958765.png">
 
-I would like to add more elements to this section and create a single visualization with data for multiple countries. I would have a filter option to choose the category of comparison (feature element such as currency, or travel duration) and the country name.
+I would like to add more elements to this section and create a single visualization with data for multiple countries. I would have a filter option to choose the category of comparison such as the feature element (currency, or travel duration), and the respective country name.
 
-4. Finally, the tourist attractions in the city of choice. In this sketching I have included a tour guide map for France only. But in my final project I would include more countries from the available options.
+4. Finally, a highlight of the tourist attractions in the city of choice. In this sketching I have included a tour guide map for France only. But in my final project I would include more countries from the available options.
 
 <img width="622" alt="Screen Shot 2021-11-14 at 5 31 31 PM" src="https://user-images.githubusercontent.com/92896969/141701187-7b0e3996-4969-489e-8f22-e6a11306427a.png">
 
@@ -84,7 +88,7 @@ As of now, I have used 3 main datasets as part of this project:
 
 a. [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
-This data indicates the mental health conditions suffered by the US population during the pandemic.
+This data is extracted from the Centers of Diseases Control and prevention website. The data indicates the mental health conditions suffered by the US population during the pandemic. From this data  
 
 b. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
