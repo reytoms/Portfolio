@@ -21,7 +21,7 @@ I aspire to build appealing visuals with impressive and communicative data.
 
 [Visualization of government debt-to-GDP ratios of the OECD countries.](/dataviz2.md)
 
-[Revisualized medal tally of the Tokyp Olympics 2020](/dataviz3.md)
+[Revisualized medal tally of the Tokyo Olympics 2020](/dataviz3.md)
 
 Final Project: 
 [Follow me as I develop my final project](/Project_part1.md)
