@@ -9,19 +9,17 @@ Image Source: [Pixabay](https://pixabay.com/images/id-2971961/)
 The most exciting time of the year is here - The holiday season is upon us!
 
 Since the onset of COVID-19, many of us have not taken a vacation! The decline in travel has devasted both the economy of the country and eliminated job opportunities. But on a more personal note, I feel burned-out. I am sure you would agree with me on that.
-
+ 
+The data realeased by Centers for diseases and control prevention highlights that 40% of US adults suffered from elevated adversarial mental health conditions during early pandemic. Younger adults, racial/ethnic minorities, and essential workers, reported having experienced disproportionately worse mental health outcomes, increased substance use, and elevated suicidal ideation.
 [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
-The data realeased by Centers for diseases and control prevention highlights that 40% of US adults suffered from elevated adversarial mental health conditions during early pandemic. Younger adults, racial/ethnic minorities, and essential workers, reported having experienced disproportionately worse mental health outcomes, increased substance use, and elevated suicidal ideation.
-
 As a narrator, I want to convince people to take a vacation this Christmas, because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
-
-[Statistics of decline in 2020 travel](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
+[2020 statistics of decline in travel](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
 I would like to use the below elements to narrate my story.
 
 #### Set up:
-Here is the reality about the timeline of my mental health. It has definitely deteriorated since the onset of the pandemic from early 2020 until mid of 2021.
+Here is the reality about the timeline of my mental health that deteriorated since the onset of the pandemic from early 2020 until mid of 2021.
 
 ![MENTAL HEALTH CHECK: 2021 GIVES YOU THE POWER BACK](https://user-images.githubusercontent.com/92896969/141698969-a9c84af6-1c90-4365-b783-e48525d44dd3.jpg)
 
@@ -131,5 +129,8 @@ As I continue to work on my story, I would also like to include a section to doc
 
 Noting that this is my story, it could be biased to my likes and preferences. I will note that as a comment. However, the method of arriving at the conclusion is what I would like for my viewers to take away. That is, how to plan your vacations and what features should be considered.
 
+### References
 
+1. Czeisler, Mark É. “Mental Health, Substance Use, and Suicidal Ideation during the COVID-19 Pandemic — United States, June 24–30, 2020.” MMWR. Morbidity and Mortality Weekly Report, vol. 69, no. 32, 14 Aug. 2020, www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm, 10.15585/mmwr.mm6932a1.
+‌
 
