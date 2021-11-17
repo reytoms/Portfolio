@@ -29,6 +29,8 @@ Here is the reality about the timeline of my mental health that deteriorated sin
 
 ![MENTAL HEALTH CHECK: 2021 GIVES YOU THE POWER BACK](https://user-images.githubusercontent.com/92896969/141698969-a9c84af6-1c90-4365-b783-e48525d44dd3.jpg)
 
+Until early 2020, our mental well-being was comparatively steady and healthier until the pandemic was declared. Since then, our mental health has dropped especially with work life switching to remote, lockdowns being announced, and borders closing out. Vacations meant more time at home rather than an opportunity to connect with people or explore another destination. Early 2021, vaccinations were announced after which majority of the population got vaccinated.
+With borders gradually opening now, I consider this the best time to make a positive impact to boost our mental health. 
 
 #### Conflict: 
 
