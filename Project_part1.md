@@ -21,7 +21,9 @@ The data realeased by Centers of Diseases Control and prevention highlights that
 
 [National estimates of prevalence of depression or symptoms of depression post pandemic declaration and comparison with pre-covid numbers](https://www.oecd.org/coronavirus/policy-responses/tackling-the-mental-health-impact-of-the-covid-19-crisis-an-integrated-whole-of-society-response-0ccafa0b/?_ga=2.247652930.416353729.1620814785-2066025542.1539248784#figure-d1e205)
 
-As a narrator, I want to convince people to take a vacation this Christmas because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
+This data from the OECD informs us that though the mental health conditions fluctuated in the past, the trend remained steady over the years. In 2020 however, with the pandemic, the trend altered significantly indicating the prevalence of depression and anxiety symptoms nationally.
+
+Though we didn't have many options during the pandemic to fight the ill-feeling, I believe we have the chance now. As a narrator, I want to convince people to take a vacation this Christmas because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
 
 I would like to use the below elements to narrate my story.
 
