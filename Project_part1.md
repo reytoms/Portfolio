@@ -19,6 +19,7 @@ The data realeased by Centers of Diseases Control and prevention highlights that
  
  <img width="1390" alt="Screen Shot 2021-11-16 at 1 45 26 PM" src="https://user-images.githubusercontent.com/92896969/142061154-5518b370-efd7-43e5-8e65-25d688d46ef3.png">
 
+I want to find data about mental health statistics pre-2020 and make a visualization comparing it with the mental well-being post 2020 and the Pandemic.
 
 As a narrator, I want to convince people to take a vacation this Christmas because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
 
