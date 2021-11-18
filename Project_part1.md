@@ -19,7 +19,7 @@ The data realeased by Centers of Diseases Control and prevention highlights that
  
  <img width="1390" alt="Screen Shot 2021-11-16 at 1 45 26 PM" src="https://user-images.githubusercontent.com/92896969/142061154-5518b370-efd7-43e5-8e65-25d688d46ef3.png">
 
-I want to find data about mental health statistics pre-2020 and make a visualization comparing it with the mental well-being post 2020 and the Pandemic.
+[National estimates of prevalence of depression or symptoms of depression post pandemic declaration and comparison with pre-covid numbers](https://www.oecd.org/coronavirus/policy-responses/tackling-the-mental-health-impact-of-the-covid-19-crisis-an-integrated-whole-of-society-response-0ccafa0b/?_ga=2.247652930.416353729.1620814785-2066025542.1539248784#figure-d1e205)
 
 As a narrator, I want to convince people to take a vacation this Christmas because I consider it the best way to boost happiness, increase productivity, and improve both mental and physical well-being. I can do this by introducing exciting destinations and tempting them to take the much needed break that they deserve.
 
@@ -96,15 +96,19 @@ I would like to add more elements to this section and create a single visualizat
 
 As of now, I have used 3 main datasets as part of this project:
 
-a. [Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
+a. [National estimates of prevalence of depression or symptoms of depression post pandemic declaration and comparison with pre-covid numbers](https://www.oecd.org/coronavirus/policy-responses/tackling-the-mental-health-impact-of-the-covid-19-crisis-an-integrated-whole-of-society-response-0ccafa0b/?_ga=2.247652930.416353729.1620814785-2066025542.1539248784#figure-d1e205) and [National estimates of prevalence of anxiety or symptoms of depression post pandemic declaration and comparison with pre-covid numbers](https://www.oecd.org/coronavirus/policy-responses/tackling-the-mental-health-impact-of-the-covid-19-crisis-an-integrated-whole-of-society-response-0ccafa0b/?_ga=2.247652930.416353729.1620814785-2066025542.1539248784#figure-d1e205)
+
+The data is retrieved from the OECD (Organisation for Economic Co-operation and Development). It indicates that the prevalence of depression and anxiety increased significantly in 2020 in comparison to pre-covid. The data source confirms that for many years though the prevalence of mental health conditionsremained unchanged for many years, the trend was impacted in 2020 with the outbreak of COVID-19. 
+
+b.[Mental Health Statistics](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932a1.htm)
 
 This data is extracted from the Centers of Diseases Control and prevention website. The data indicates the mental health conditions suffered by the US population during the pandemic. 
 
-b. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
+c. [The statistics in decline of travel since COVID-19](https://www.ustravel.org/system/files/media_root/document/Research_Fact-Sheet_Industry-Table.pdf)
 
 I was able to extract numbers pertaining to the decline in US Travel economy for 2020 from us.travel.org website. Using this data, I would like to create a visualization of how travel and tourism economy have dropped since 2020. I would like to use a stick chart to show the decline from pre-covid to post.
 
-c. [The data set of the top 10 countries for tourism](https://www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html)
+d. [The data set of the top 10 countries for tourism](https://www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html)
 
 This data set identifies the top countries to visit this holiday season. 
 
