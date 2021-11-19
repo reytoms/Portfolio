@@ -51,8 +51,7 @@ Visual 1: Self-Care bingo that highlights travelling. Of the many possible thing
 
 
 
-
-Visual 2: This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of a equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
+Visual 2: This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of an equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
 
 
 
@@ -70,7 +69,6 @@ Now that my viewers are convinced about taking the journey towards a healthier m
 
 <img width="385" alt="Screen Shot 2021-11-19 at 12 17 39 AM" src="https://user-images.githubusercontent.com/92896969/142569308-e9e73427-73fb-4e9b-a203-abe6d40ce013.png">
 
-Wireframes and storyboards
 
 
 User research and interviews
