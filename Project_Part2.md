@@ -45,7 +45,8 @@ I want to create a storyboard particularly to draw the connection between travel
 
 **Visual 1:** Self-Care bingo highlights "Travel" amongst the other possible things one can do to get over the feeling of depression. I would like to then link the effect of travel on mental health in the following visual 2.
 
-<img width="385" alt="Screen Shot 2021-11-19 at 12 17 39 AM" src="https://user-images.githubusercontent.com/92896969/142570837-94a270d7-c4fd-4020-8eb9-b80405c2ac2c.png">
+<img width="400" alt="Screen Shot 2021-11-19 at 12 35 35 AM" src="https://user-images.githubusercontent.com/92896969/142571159-6d13e9a8-b440-4228-85bc-888408602523.png">
+
 
 **Visual 2:** This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of an equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
 
