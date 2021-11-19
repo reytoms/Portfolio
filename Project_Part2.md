@@ -22,10 +22,15 @@ In my personal opinion, I am not surprised by the numbers neither am I impressed
 Staying away from friends and family especially on the big days were difficult, but so was closing yourself within the four walls of your room whether for work or leisure. It is no longer impossible to imagine being locked down, but rather depressing and "SAY NO!".
 
 As part of this submission I would like to work on the following:
+
 a. Highlight the increase in mental health concerns due to covid-19 (wireframed in the chart above)
+
 b. Create a visualization about the positive impact of travel on mental well-being
+
 c. Take away the stress of vacation planning by providing guidelines on how to travel
+
 d. Invite the viewers to my home country - Doha Qatar: Highlight the tourist experiences
+
 e. Draw comparison of USA versus Qatar in terms of exchange rate of currency, population size, weather and and duration of travel.
 
 
