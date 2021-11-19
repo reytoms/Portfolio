@@ -41,17 +41,13 @@ e. Draw comparison of USA versus Qatar in terms of exchange rate of currency, po
 
 ## Storyboard
 
-I want to create a storyboard particularly to draw the connection between travel and mental health. In other words, I would like to chart out how exactly travelling can boost the emotional morale and influence creativity and productivity of an individual. I will do this by making a series of visualization which together compile a story board.
+I want to create a storyboard particularly to draw the connection between travel and mental health. In other words, I would like to chart out how travelling can boost the emotional morale and influence creativity and productivity of an individual. I will do this by making a series of visualization which together compile a story board.
 
-Visual 1: Self-Care bingo that highlights travelling. Of the many possible things to do to get over the feeling of depression, I would like to highlight "Travel" as a main point that I would link with mental health in the following storyboard.
+**Visual 1:** Self-Care bingo highlights "Travel" amongst the other possible things one can do to get over the feeling of depression. I would like to then link the effect of travel on mental health in the following visual 2.
 
+<img width="385" alt="Screen Shot 2021-11-19 at 12 17 39 AM" src="https://user-images.githubusercontent.com/92896969/142570837-94a270d7-c4fd-4020-8eb9-b80405c2ac2c.png">
 
-![SELF-CARE BINGO](https://user-images.githubusercontent.com/92896969/142567024-d82620e2-2b38-4d55-9886-7ca0ff9a87c9.jpg)
-
-
-
-
-Visual 2: This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of an equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
+**Visual 2:** This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of an equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
 
 
 
@@ -60,15 +56,11 @@ Visual 2: This visual can be considered a storyboard in itself. "MIND WHERE YOU 
 
 
 
-
-
-
-Visual 3: Travel Checklist
+**Visual 3:** Travel Checklist
 
 Now that my viewers are convinced about taking the journey towards a healthier mental well-being, here's a quick checklist for them to strike off as they make their way to a healther and happier self!
 
 <img width="385" alt="Screen Shot 2021-11-19 at 12 17 39 AM" src="https://user-images.githubusercontent.com/92896969/142569308-e9e73427-73fb-4e9b-a203-abe6d40ce013.png">
-
 
 
 User research and interviews
