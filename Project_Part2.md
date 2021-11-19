@@ -54,13 +54,14 @@ I want to create a storyboard particularly to draw the connection between travel
 
 ![MINDVS HEART:TRAVEL](https://user-images.githubusercontent.com/92896969/142685926-e864647b-8e16-43a7-a427-6974abfbea9a.jpg)
 
-
 From this story board, I would like to take my viewers along a journey from poor mental health to an elevated mood shift. 
 Openness to experience is critical to one's personality because it makes the person less resistant to day-to-day challenges and subsequently positively impacts emotional stability and improves their interpersonal interacrions. 
 
 Neuroplasticity is the ability of the neural networks in the brain to change through growth and reorganization. When an individual travels, they put themselves in challenging situations that might require them to either communicate a non-verbal language using creativity to convey a message, engage in encounters that they might not have been exposed to in the past and/or think through situations that are not common to the otherwise everyday lives. Travel thus, positively contributes to building new connections in our brain, making us more creative, and adaptable.
 
+The third step to elevated mood that I have highlighted is the cognitive flexibility of the brain to shift from thinking about one concept to another.  The quicker you are able to switch your thinking from one dimension to another, the greater your level of cognitive flexibility. Rigid thinkers on the other hand are poor at adapting to new novel stimuli and shifting their thinking to accommodate various changes.
 
+The ability to work on these 3 areas is key to a better mental health. From this storyboard I aspire to invoke the willingness in my viewers to incorporate these 3 key abilities with travel.
 
 **Visual 3:** Travel Checklist
 
