@@ -4,6 +4,11 @@
 
 Image Source: [Currently Abroad](https://www.currentlyabroad.com/blog/Traveling+Mentalhealth)
 
+I would like to make note that my story will follow the theme of two colours - the combination of Pink and Blue Shades.
+From the cooler palette, I learnt that blue complements depression as well as travel. To highlight the benefits of travel I decided to chose the blend of both shades as they look bright and enriching!
+
+The exact shades for the theme of the story are: 3a0ca3 (Blue) and b5179e (Pink)
+
 ## Workflow
 
 A review of my previous submission (Part 1) helped me understand that I need to build a connection between the two elements of my story: Mental Health and the positive impact of travel on it. 
@@ -36,9 +41,9 @@ e. Draw comparison of USA versus Qatar in terms of exchange rate of currency, po
 
 ## Storyboard
 
-I want to create a storyboard particularly to draw the connection between travel and mental health. In other words, I would like to chart out how exactly travelling can boost the emotional morale and influence creativity and productivity of an individual. 
+I want to create a storyboard particularly to draw the connection between travel and mental health. In other words, I would like to chart out how exactly travelling can boost the emotional morale and influence creativity and productivity of an individual. I will do this by making a series of visualization which together compile a story board.
 
-StoryBoard 1: Self-Care bingo that highlights travelling. Of the many possible things to do to get over the feeling of depression, I would like to highlight "Travel" as a main point that I would link with mental health in the following storyboard.
+Visual 1: Self-Care bingo that highlights travelling. Of the many possible things to do to get over the feeling of depression, I would like to highlight "Travel" as a main point that I would link with mental health in the following storyboard.
 
 
 ![SELF-CARE BINGO](https://user-images.githubusercontent.com/92896969/142567024-d82620e2-2b38-4d55-9886-7ca0ff9a87c9.jpg)
@@ -47,7 +52,7 @@ StoryBoard 1: Self-Care bingo that highlights travelling. Of the many possible t
 
 
 
-StoryBoard 2: MIND WHERE YOU GO is a short journey of a equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
+Visual 2: This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of a equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
 
 
 
@@ -59,12 +64,11 @@ StoryBoard 2: MIND WHERE YOU GO is a short journey of a equipped mind to a more 
 
 
 
-Storyboard 3: Travel Checklist
+Visual 3: Travel Checklist
 
+Now that my viewers are convinced about taking the journey towards a healthier mental well-being, here's a quick checklist for them to strike off as they make their way to a healther and happier self!
 
-
-
-
+<img width="385" alt="Screen Shot 2021-11-19 at 12 17 39 AM" src="https://user-images.githubusercontent.com/92896969/142569308-e9e73427-73fb-4e9b-a203-abe6d40ce013.png">
 
 Wireframes and storyboards
 
