@@ -26,6 +26,6 @@ I aspire to build appealing visuals with impressive and communicative data.
 Final Project: 
 [Follow me as I develop my final project](/Project_part1.md)
 
-Part II: Sketches, wireframes, storyboards
+[Part II:](/Project_Part2.md)
 
 Part III: Final deliverable and presentation
