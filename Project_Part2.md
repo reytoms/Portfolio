@@ -38,6 +38,30 @@ e. Draw comparison of USA versus Qatar in terms of exchange rate of currency, po
 
 I want to create a storyboard particularly to draw the connection between travel and mental health. In other words, I would like to chart out how exactly travelling can boost the emotional morale and influence creativity and productivity of an individual. 
 
+StoryBoard 1: Self-Care bingo that highlights travelling. Of the many possible things to do to get over the feeling of depression, I would like to highlight "Travel" as a main point that I would link with mental health in the following storyboard.
+
+
+
+
+
+
+
+StoryBoard 2: MIND WHERE YOU GO is a short journey of a equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
+
+
+
+
+
+
+
+
+
+
+
+Storyboard 3: Travel Checklist
+
+
+
 
 
 
