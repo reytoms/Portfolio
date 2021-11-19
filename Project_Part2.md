@@ -41,6 +41,7 @@ I want to create a storyboard particularly to draw the connection between travel
 StoryBoard 1: Self-Care bingo that highlights travelling. Of the many possible things to do to get over the feeling of depression, I would like to highlight "Travel" as a main point that I would link with mental health in the following storyboard.
 
 
+![SELF-CARE BINGO](https://user-images.githubusercontent.com/92896969/142567024-d82620e2-2b38-4d55-9886-7ca0ff9a87c9.jpg)
 
 
 
