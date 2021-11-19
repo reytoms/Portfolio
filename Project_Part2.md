@@ -69,6 +69,12 @@ Now that my viewers are convinced about taking the journey towards a healthier m
 
 <img width="385" alt="Screen Shot 2021-11-19 at 12 17 39 AM" src="https://user-images.githubusercontent.com/92896969/142569308-e9e73427-73fb-4e9b-a203-abe6d40ce013.png">
 
+Finally, I would like to introduce them to one country they could visit. I choose to present some facts about Qatar that would be insightful to my viewers.
+
+1. The population of Qatar is 2,947,566 versus 3,33,659,530 in USA.
+2. The value of 1 USD id equal to 3.65 qatar riyals.
+3. The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.
+4. Finally, I would like to highlight some tourist attractions in Doha and make a countdown to the FIFA World Cup 2022 which is going to be hosted in Doha.
 
 User research and interviews
 
@@ -84,4 +90,7 @@ e. changes you plan on implementing to your visualizations next week to address 
 
 https://coolors.co/palettes/trending/depression
 https://www.ramstein.af.mil/News/Article-Display/Article/2077606/traveling-to-better-mental-health/
+https://www.worldometers.info/world-population/us-population/
+https://www.worldometers.info/world-population/qatar-population/
+
 
