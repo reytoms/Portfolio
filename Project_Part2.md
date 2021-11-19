@@ -36,6 +36,7 @@ e. Draw comparison of USA versus Qatar in terms of exchange rate of currency, po
 
 ## Storyboard
 
+I want to create a storyboard particularly to draw the connection between travel and mental health. In other words, I would like to chart out how exactly travelling can boost the emotional morale and influence creativity and productivity of an individual. 
 
 
 
