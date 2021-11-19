@@ -48,11 +48,11 @@ I want to create a storyboard particularly to draw the connection between travel
 <img width="400" alt="Screen Shot 2021-11-19 at 12 35 35 AM" src="https://user-images.githubusercontent.com/92896969/142571159-6d13e9a8-b440-4228-85bc-888408602523.png">
 
 
-**Visual 2:** This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of an equipped mind to a more relaxed, happy mind from the resulf of travelling. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
+**Visual 2:** This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of an equipped mind to a more relaxed, happy mind. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
 
 “Vacation travel as a means for getting away from the rigors of work and relaxing a few times a year is proven to be beneficial to overall mental health” -  U.S. Air Force Capt. Abigail Wolfe (86th Medical Group psychologist)
 
-![MINDVS HEART:TRAVEL](https://user-images.githubusercontent.com/92896969/142685926-e864647b-8e16-43a7-a427-6974abfbea9a.jpg)
+<img width="323" alt="Screen Shot 2021-11-19 at 4 06 02 PM" src="https://user-images.githubusercontent.com/92896969/142691643-69fc4b62-5895-4569-881a-b1c75a4fe48d.png">
 
 From this story board, I would like to take my viewers along a journey from poor mental health to an elevated mood shift. 
 Openness to experience is critical to one's personality because it makes the person less resistant to day-to-day challenges and subsequently positively impacts emotional stability and improves their interpersonal interacrions. 
