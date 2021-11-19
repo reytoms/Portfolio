@@ -58,7 +58,7 @@ I want to create a storyboard particularly to draw the connection between travel
 From this story board, I would like to take my viewers along a journey from poor mental health to an elevated mood shift. 
 Openness to experience is critical to one's personality because it makes the person less resistant to day-to-day challenges and subsequently positively impacts emotional stability and improves their interpersonal interacrions. 
 
-neuroplasticity is build in the brain. Neuroplasticity is the ability of the neural networks in the brain to change through growth and reorganization. When an individual travels, they put themselves in challenging situations that might require them to communicate a non-verbal language using creativity to convey a message, engage in encounters that they might not have been exposed to in the past and think through situations that are not common to the otherwise everyday lives. Travel thus positively contributes to building new connections in our brain, making us more creative, and adaptable. 
+Neuroplasticity is the ability of the neural networks in the brain to change through growth and reorganization. When an individual travels, they put themselves in challenging situations that might require them to either communicate a non-verbal language using creativity to convey a message, engage in encounters that they might not have been exposed to in the past and/or think through situations that are not common to the otherwise everyday lives. Travel thus, positively contributes to building new connections in our brain, making us more creative, and adaptable.
 
 
 
