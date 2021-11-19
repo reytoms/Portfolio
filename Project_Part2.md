@@ -71,6 +71,8 @@ Now that my viewers are convinced about taking the journey towards a healthier m
 
 Finally, I would like to introduce them to one country they could visit. I choose to present some facts about Qatar that would be insightful to my viewers.
 
+<div class="flourish-embed" data-src="visualisation/7880910"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 1. The population of Qatar is 2,947,566 versus 3,33,659,530 in USA.
 2. The value of 1 USD id equal to 3.65 qatar riyals.
 3. The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.
