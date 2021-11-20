@@ -150,6 +150,8 @@ CNN, By Dimitris Sideridis. “Souq Waqif: 10 Things to See and Do at Doha’s �
 
 “Depression Color Palettes - Coolors.” Coolors.co, coolors.co/palettes/trending/depression. Accessed 20 Nov. 2021.
 
+"Dusk at the Pearl Qatar" by SJByles is licensed under CC BY-SA 2.0
+
 Escapes. “Qatar’s Best Beaches for Facilities | Living 2022.” Living2022.com, 6 Nov. 2020, living2022.com/explore-qatar/sightseeing/best-beaches-facilities/. Accessed 20 Nov. 2021.
 
 Hypermarket, Lulu. “Ferrero Kinder Joy Egg Girls 20g.” LuLu Hypermarket Qatar Website, www.luluhypermarket.com/en-qa/ferrero-kinder-joy-egg-girls-20g/p/1011266. Accessed 20 Nov. 2021.
@@ -161,8 +163,6 @@ Odijk, Hugo. “Lonely Planet’s Top Experiences and Sights in Qatar.” List C
 
 Qatar 2022, Connect. “Stadiums.” See You in 2022, www.qatar2022.qa/en/stadiums.
 
-“Qatar Population (2019) - Worldometers.” Worldometers.info, 2019, www.worldometers.info/world-population/qatar-population/.
-
 SHansche. “Impressive Sunset over Doha’s City Center, Stock Photo ID:697863854.” IStock, 13 Sept. 2017, www.istockphoto.com/photo/the-skyline-of-doha-city-center-after-sunset-qatar-gm697863854-138681447. Accessed 20 Nov. 2021.
 
 Unsplash. “Photo by Florian Wehde on Unsplash.” Unsplash.com, 13 Oct. 2017, unsplash.com/photos/Do6yoytec5E. Accessed 20 Nov. 2021.
@@ -173,29 +173,6 @@ Viator. “Food Tour & Boat Ride in the Pearl Qatar Island.” Www.viator.com, w
 
 Walmart. “Kinder JOY Eggs, Individually Wrapped Chocolate Candy Egg with Toys Inside, Perfect Surprise for Kids, Great for Holiday Stocking Stuffers, 1 Count, 0.7 Oz.” Walmart.com, www.walmart.com/ip/Kinder-JOY-Eggs-Individually-Wrapped-Chocolate-Candy-Egg-With-Toys-Inside-Perfect-Surprise-Kids-Great-Holiday-Stocking-Stuffers-1-Count-0-7-oz/746964927. Accessed 20 Nov. 2021.
 
-Worldometers. “U.S. Population (2019) - Worldometers.” Worldometers.info, 2021, www.worldometers.info/world-population/us-population/.
+Worldometers. “U.S. Population (2019) - Worldometers.” Worldometers.info, 2019, www.worldometers.info/world-population/us-population/.
 
-https://coolors.co/palettes/trending/depression
-https://www.ramstein.af.mil/News/Article-Display/Article/2077606/traveling-to-better-mental-health/
-https://www.worldometers.info/world-population/us-population/
-https://www.worldometers.info/world-population/qatar-population/
-https://www.walmart.com/ip/Kinder-JOY-Eggs-Individually-Wrapped-Chocolate-Candy-Egg-With-Toys-Inside-Perfect-Surprise-Kids-Great-Holiday-Stocking-Stuffers-1-Count-0-7-oz/746964927
-https://www.luluhypermarket.com/en-qa/ferrero-kinder-joy-egg-girls-20g/p/1011266
-https://www.qatar2022.qa/en/stadiums
-http://www.noonpost.com/sites/default/files/qatar2022.png
-"Dusk at the Pearl Qatar" by SJByles is licensed under CC BY-SA 2.0
-https://www.istockphoto.com/photo/aerial-view-of-the-pearl-qatar-island-in-doha-through-the-morning-fog-qatar-the-gm966897610-263778759?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fpearl-qatar&utm_term=pearl%20qatar%3A%3A%3A
-
-https://unsplash.com/photos/Do6yoytec5E
-https://unsplash.com/photos/y_4_rCFVwd8
-https://www.cnn.com/travel/article/souq-waqif-doha-qatar/index.html
-https://en.wikipedia.org/wiki/Katara_(cultural_village)#/media/File:KataraVillageAmphitheater.jpg
-https://www.myholidays.com/blog/katara-cultural-village-a-handy-guide-for-your-day-at-katara-cultural-village/
-https://www.viator.com/tours/Doha/An-immersive-food-tour-and-boat-ride-in-The-Pearl-Qatar/d4453-198185P1
-https://living2022.com/explore-qatar/sightseeing/best-beaches-facilities/
-https://www.istockphoto.com/photo/the-skyline-of-doha-city-center-after-sunset-qatar-gm697863854-138681447
-https://www.listchallenges.com/lonely-planets-top-experiences-and-sights-in-qatar
-https://www.tripsavvy.com/best-beaches-near-doha-4705459
-
-https://www.youtube.com/watch?v=chzHd1uSP_A
-
+Worldometers. “Qatar Population (2019) - Worldometers.” Worldometers.info, 2019, www.worldometers.info/world-population/qatar-population/.
