@@ -65,29 +65,42 @@ The ability to work on these 3 areas is key to a better mental health. From this
 
 **Visual 3:** Travel Checklist
 
-Now that my viewers are convinced about taking the journey towards a healthier mental well-being, here's a quick checklist for them to strike off as they make their way to a healther and happier self!
+By now I trust my viewers are convinced about taking the journey towards a healthier mental well-being. I would like to ease their planning by creating a quick checklist for to strike off as they make their way to a healther and happier self!
 
 <img width="385" alt="Screen Shot 2021-11-19 at 12 17 39 AM" src="https://user-images.githubusercontent.com/92896969/142569308-e9e73427-73fb-4e9b-a203-abe6d40ce013.png">
 
-Finally, I would like to introduce them to a country that they could visit. I choose to present some facts about Qatar (my home country) that would be insightful to my viewers.
+
+## Data Visualization
+
+
+Finally, I would like to introduce them to a country that I would like them to visit. 
+Qatar is my home country. Hence, I would like to encourage my viewers to visit Doha, Qatar.
+
+The reason I created the below visualization is to show my viewers about the possible travel destinations. However, for this story out of about 200 countries in the world, I want to highlight "QATAR". I did this by giving the largest font size to Qatar and using uppercase font for it as compared to lower case font for the other countries. 
 
 <div class="flourish-embed" data-src="visualisation/7880910"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-**The population of USA is 3,33,659,530 versus 2,947,566 in Qatar. **
+In the following visualizations, I chose to highlight some areas of differences between the United States of America and Qatar.
+
+**The population of USA is 3,33,659,530 versus 2,947,566 in Qatar.**
 
 ![1 QATARI = 114 AMERICANS.pdf](https://user-images.githubusercontent.com/92896969/142717630-26867dd0-0d81-40bb-a184-83c7d6980b35.png)
 
-For every Qatari, there are about 114 Americans, by Reyma Thomas
+For each Qatari resident, there are about 114 Americans.
+
+I used Canva to build this visualization. I chose the #64113f shade to represent a citizen in Qatar because this color is closest to the shade of the Qatar Flag. On the other hand, to show the population for USA, I picked blue from the color of the USA National flag. I did not choose red instead because red and the maroon for Qatar might not look as distinct as the blue and maroon.
+
 
 **The value of 1 USD is equal to 3.65 qatar riyals.**
 
 ![1 USD = 3.65 QAR.pdf](https://user-images.githubusercontent.com/92896969/142717639-a2c06d79-ea5e-49af-8a72-85d1b708314d.png)
 
-1 USD = 3.65 QAR, by Reyma Thomas
+I used Canva to build this visualization. I chose Kinder Joy as the item to display the difference in currency rate because I wanted a product common in both the countries (same brand). I also wanted the product to be about $1 in USA. By this method I am able to show the exchange rate for 1 USD as 3.65 QAR.
 
 **The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.**
 
-**Finally, I would like to highlight some tourist attractions in Doha and make a countdown to the FIFA World Cup 2022 which is going to be hosted in Doha.**
+
+**I would like to highlight some tourist attractions in Doha**
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -98,16 +111,27 @@ For every Qatari, there are about 114 Americans, by Reyma Thomas
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwPBONP0A&#x2F;watch?utm_content=DAEwPBONP0A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Doha Qatar</a> by Reyma Thomas
 
+
+I used Canva to create a video to showcase Qatar. I trust this would create a more personal interest in the hearts of my viewers and consider planning a trip. Though I could not cover all possible tourist locations in Qatar, I highlighted some key attractions. I chose attractions and colorful images that displays the many leisure activities in Qatar. I considered this a great way to keep my viewers interested in my video. I also picked an arabic music to align with the culture of Qatar (arab country). All image references and the music credits are noted in the reference section.
+
+**Finally, I would like to create a countdown to FIFA QATAR 2022**
+
+In the video I created for Qatar, I introduced some stadiums that will be hosting the FIFA 2022 World Cup. Noting that my viewers are students (young adults), I believe I will be able to gather their attention and focus to the game. As much as I hope they all take a vacation (to any destination that is viable to them) this Christmas, I want to them to consider visiting Qatar atleast next year during the same season. I am using the FIFA countdown to have them consider making the trip! The world Cup is a little less than a year away from now. 
+
 <div class="flourish-embed" data-src="visualisation/7881992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-User research and interviews
+** User research and interviews
 
 Your user research protocol should clearly identify the following: 
 
 a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
+
+b. your approach to identifying representative individuals to interview;
+
 c. your interview script; 
+
 d. the findings from your interviews; and 
+
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
 
 ### References:
