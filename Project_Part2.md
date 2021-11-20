@@ -98,7 +98,7 @@ Finally, I would like to introduce them to a country that they could visit. I ch
 3. The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.
 4. Finally, I would like to highlight some tourist attractions in Doha and make a countdown to the FIFA World Cup 2022 which is going to be hosted in Doha.
 
-<div class="flourish-embed" data-src="visualisation/7881992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed" data-src="visualisation/7881992" data-width="50%"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 User research and interviews
 
