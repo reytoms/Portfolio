@@ -73,7 +73,7 @@ Finally, I would like to introduce them to a country that they could visit. I ch
 
 <div class="flourish-embed" data-src="visualisation/7880910"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-1. The population of Qatar is 2,947,566 versus 3,33,659,530 in USA. 
+1. The population of USA is 3,33,659,530 versus 2,947,566 in Qatar. 
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -82,11 +82,12 @@ Finally, I would like to introduce them to a country that they could visit. I ch
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwO8BKc98&#x2F;view?embed">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwO8BKc98&#x2F;view?utm_content=DAEwO8BKc98&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Add a heading</a> by Reyma Thomas
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwO8BKc98&#x2F;view?utm_content=DAEwO8BKc98&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">For every Qatari, there are about 114 Americans</a> by Reyma Thomas
 
-3. The value of 1 USD id equal to 3.65 qatar riyals.
-4. The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.
-5. Finally, I would like to highlight some tourist attractions in Doha and make a countdown to the FIFA World Cup 2022 which is going to be hosted in Doha.
+2. The value of 1 USD id equal to 3.65 qatar riyals.
+
+3. The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.
+4. Finally, I would like to highlight some tourist attractions in Doha and make a countdown to the FIFA World Cup 2022 which is going to be hosted in Doha.
 
 <div class="flourish-embed" data-src="visualisation/7881992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
