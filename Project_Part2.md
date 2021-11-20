@@ -88,6 +88,15 @@ For every Qatari, there are about 114 Americans</a> by Reyma Thomas
 3. The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.
 4. Finally, I would like to highlight some tourist attractions in Doha and make a countdown to the FIFA World Cup 2022 which is going to be hosted in Doha.
 
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwPBONP0A&#x2F;watch?embed">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwPBONP0A&#x2F;watch?utm_content=DAEwPBONP0A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Doha Qatar</a> by Reyma Thomas
+
 <div class="flourish-embed" data-src="visualisation/7881992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 User research and interviews
@@ -108,5 +117,7 @@ https://www.worldometers.info/world-population/us-population/
 https://www.worldometers.info/world-population/qatar-population/
 https://www.walmart.com/ip/Kinder-JOY-Eggs-Individually-Wrapped-Chocolate-Candy-Egg-With-Toys-Inside-Perfect-Surprise-Kids-Great-Holiday-Stocking-Stuffers-1-Count-0-7-oz/746964927
 https://www.luluhypermarket.com/en-qa/ferrero-kinder-joy-egg-girls-20g/p/1011266
+https://www.qatar2022.qa/en/stadiums/ras-abu-aboud-stadium
 
+"Dusk at the Pearl Qatar" by SJByles is licensed under CC BY-SA 2.0
 
