@@ -73,20 +73,21 @@ Finally, I would like to introduce them to a country that they could visit. I ch
 
 <div class="flourish-embed" data-src="visualisation/7880910"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-1. The population of USA is 3,33,659,530 versus 2,947,566 in Qatar. 
+**The population of USA is 3,33,659,530 versus 2,947,566 in Qatar. **
 
 ![1 QATARI = 114 AMERICANS.pdf](https://user-images.githubusercontent.com/92896969/142717630-26867dd0-0d81-40bb-a184-83c7d6980b35.png)
 
-For every Qatari, there are about 114 Americans</a> by Reyma Thomas
+For every Qatari, there are about 114 Americans, by Reyma Thomas
 
-2. The value of 1 USD id equal to 3.65 qatar riyals.
+**The value of 1 USD is equal to 3.65 qatar riyals.**
 
 ![1 USD = 3.65 QAR.pdf](https://user-images.githubusercontent.com/92896969/142717639-a2c06d79-ea5e-49af-8a72-85d1b708314d.png)
 
-1 USD = 3.65 QAR</a> by Reyma Thomas
+1 USD = 3.65 QAR, by Reyma Thomas
 
-3. The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.
-4. Finally, I would like to highlight some tourist attractions in Doha and make a countdown to the FIFA World Cup 2022 which is going to be hosted in Doha.
+**The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.**
+
+**Finally, I would like to highlight some tourist attractions in Doha and make a countdown to the FIFA World Cup 2022 which is going to be hosted in Doha.**
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
