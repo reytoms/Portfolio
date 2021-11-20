@@ -112,6 +112,45 @@ e. changes you plan on implementing to your visualizations next week to address 
 
 ### References:
 
+Agdeppa, Joe Chua. “The Amphitheater in Katara.” Flickr, 20 July 2011, www.flickr.com/photos/ccqatar/6142872061/in/album-72157627536218709/.
+
+Al Arkobi, Anis. “The World Cup 2022 Logo..a New Path That Brings Doha Closer to a Global Achievement.” Noonpost.com, 2021, www.noonpost.com/sites/default/files/qatar2022.png. Accessed 9 Apr. 2019.
+
+Andronov, Leonid. “Aerial View of the Pearl-Qatar Island in Doha through the Morning Fog - Qatar, the Persian Gulf Stock Photo.” Stock Photo ID:966897610, 3 June 2018, www.istockphoto.com/photo/aerial-view-of-the-pearl-qatar-island-in-doha-through-the-morning-fog-qatar-the-gm966897610-263778759?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fpearl-qatar&utm_term=pearl%20qatar%3A%3A%3A. Accessed 20 Nov. 2021.
+
+Baker, Senior Airman Elizabeth. “Traveling to Better Mental Health.” Ramstein Air Base, 7 Feb. 2020, www.ramstein.af.mil/News/Article-Display/Article/2077606/traveling-to-better-mental-health/. Accessed 20 Nov. 2021.
+
+Bisht, Anjali. “Katara Cultural Village, Qatar - Discover the Best of Doha Heritage Village.” Myholidays Blog: Your One-Stop Destination to Travel Tips, Tricks & Experiences, 21 Sept. 2020, www.myholidays.com/blog/katara-cultural-village-a-handy-guide-for-your-day-at-katara-cultural-village/. Accessed 20 Nov. 2021.
+
+CNN, By Dimitris Sideridis. “Souq Waqif: 10 Things to See and Do at Doha’s ‘Standing Market.’” CNN, 26 Feb. 2018, www.cnn.com/travel/article/souq-waqif-doha-qatar/index.html. Accessed 20 Nov. 2021.
+
+“Depression Color Palettes - Coolors.” Coolors.co, coolors.co/palettes/trending/depression. Accessed 20 Nov. 2021.
+
+Escapes. “Qatar’s Best Beaches for Facilities | Living 2022.” Living2022.com, 6 Nov. 2020, living2022.com/explore-qatar/sightseeing/best-beaches-facilities/. Accessed 20 Nov. 2021.
+
+Hypermarket, Lulu. “Ferrero Kinder Joy Egg Girls 20g.” LuLu Hypermarket Qatar Website, www.luluhypermarket.com/en-qa/ferrero-kinder-joy-egg-girls-20g/p/1011266. Accessed 20 Nov. 2021.
+
+LEMMIN-WOOLFREY, ULRIKE. “The 10 Best Beaches in and around Doha.” TripSavvy, 25 July 2019, www.tripsavvy.com/best-beaches-near-doha-4705459. Accessed 20 Nov. 2021.
+
+Lounge, Buddha’s. “Arabic Spanish Music ~ Andalucia Nights.” Www.youtube.com, 2 Oct. 2018, www.youtube.com/watch?v=chzHd1uSP_A. Accessed 20 Nov. 2021.
+Odijk, Hugo. “Lonely Planet’s Top Experiences and Sights in Qatar.” List Challenges, www.listchallenges.com/lonely-planets-top-experiences-and-sights-in-qatar. Accessed 20 Nov. 2021.
+
+Qatar 2022, Connect. “Stadiums.” See You in 2022, www.qatar2022.qa/en/stadiums.
+
+“Qatar Population (2019) - Worldometers.” Worldometers.info, 2019, www.worldometers.info/world-population/qatar-population/.
+
+SHansche. “Impressive Sunset over Doha’s City Center, Stock Photo ID:697863854.” IStock, 13 Sept. 2017, www.istockphoto.com/photo/the-skyline-of-doha-city-center-after-sunset-qatar-gm697863854-138681447. Accessed 20 Nov. 2021.
+
+Unsplash. “Photo by Florian Wehde on Unsplash.” Unsplash.com, 13 Oct. 2017, unsplash.com/photos/Do6yoytec5E. Accessed 20 Nov. 2021.
+
+---. “Photo by Tarek Suman on Unsplash.” Unsplash.com, 13 May 2020, unsplash.com/photos/y_4_rCFVwd8. Accessed 20 Nov. 2021.
+
+Viator. “Food Tour & Boat Ride in the Pearl Qatar Island.” Www.viator.com, www.viator.com/tours/Doha/An-immersive-food-tour-and-boat-ride-in-The-Pearl-Qatar/d4453-198185P1. Accessed 20 Nov. 2021.
+
+Walmart. “Kinder JOY Eggs, Individually Wrapped Chocolate Candy Egg with Toys Inside, Perfect Surprise for Kids, Great for Holiday Stocking Stuffers, 1 Count, 0.7 Oz.” Walmart.com, www.walmart.com/ip/Kinder-JOY-Eggs-Individually-Wrapped-Chocolate-Candy-Egg-With-Toys-Inside-Perfect-Surprise-Kids-Great-Holiday-Stocking-Stuffers-1-Count-0-7-oz/746964927. Accessed 20 Nov. 2021.
+
+Worldometers. “U.S. Population (2019) - Worldometers.” Worldometers.info, 2021, www.worldometers.info/world-population/us-population/.
+
 https://coolors.co/palettes/trending/depression
 https://www.ramstein.af.mil/News/Article-Display/Article/2077606/traveling-to-better-mental-health/
 https://www.worldometers.info/world-population/us-population/
@@ -122,15 +161,13 @@ https://www.qatar2022.qa/en/stadiums
 http://www.noonpost.com/sites/default/files/qatar2022.png
 "Dusk at the Pearl Qatar" by SJByles is licensed under CC BY-SA 2.0
 https://www.istockphoto.com/photo/aerial-view-of-the-pearl-qatar-island-in-doha-through-the-morning-fog-qatar-the-gm966897610-263778759?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fpearl-qatar&utm_term=pearl%20qatar%3A%3A%3A
-https://unsplash.com/photos/C0ZqA0c7R0Y
+
 https://unsplash.com/photos/Do6yoytec5E
 https://unsplash.com/photos/y_4_rCFVwd8
 https://www.cnn.com/travel/article/souq-waqif-doha-qatar/index.html
 https://en.wikipedia.org/wiki/Katara_(cultural_village)#/media/File:KataraVillageAmphitheater.jpg
 https://www.myholidays.com/blog/katara-cultural-village-a-handy-guide-for-your-day-at-katara-cultural-village/
 https://www.viator.com/tours/Doha/An-immersive-food-tour-and-boat-ride-in-The-Pearl-Qatar/d4453-198185P1
-https://www.dreamstime.com/stock-photo-traditional-arabic-dhows-doha-qatar-wooden-moored-off-museum-park-city-s-postmodern-st-century-high-rise-skyline-image73496997
-https://newsroom.hilton.com/hilton/news/hilton-salwa-beach-resort-villas-opens-in-qatar
 https://living2022.com/explore-qatar/sightseeing/best-beaches-facilities/
 https://www.istockphoto.com/photo/the-skyline-of-doha-city-center-after-sunset-qatar-gm697863854-138681447
 https://www.listchallenges.com/lonely-planets-top-experiences-and-sights-in-qatar
