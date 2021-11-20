@@ -75,13 +75,13 @@ Finally, I would like to introduce them to a country that they could visit. I ch
 
 1. The population of USA is 3,33,659,530 versus 2,947,566 in Qatar. 
 
-[1 QATARI = 114 AMERICANS.pdf](https://github.com/reytoms/Portfolio/files/7573895/1.QATARI.114.AMERICANS.pdf)
+![1 QATARI = 114 AMERICANS.pdf](https://user-images.githubusercontent.com/92896969/142717630-26867dd0-0d81-40bb-a184-83c7d6980b35.png)
 
 For every Qatari, there are about 114 Americans</a> by Reyma Thomas
 
 2. The value of 1 USD id equal to 3.65 qatar riyals.
 
-[1 USD = 3.65 QAR.pdf](https://github.com/reytoms/Portfolio/files/7573896/1.USD.3.65.QAR.pdf)
+![1 USD = 3.65 QAR.pdf](https://user-images.githubusercontent.com/92896969/142717639-a2c06d79-ea5e-49af-8a72-85d1b708314d.png)
 
 1 USD = 3.65 QAR</a> by Reyma Thomas
 
