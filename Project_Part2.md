@@ -118,8 +118,23 @@ https://www.worldometers.info/world-population/us-population/
 https://www.worldometers.info/world-population/qatar-population/
 https://www.walmart.com/ip/Kinder-JOY-Eggs-Individually-Wrapped-Chocolate-Candy-Egg-With-Toys-Inside-Perfect-Surprise-Kids-Great-Holiday-Stocking-Stuffers-1-Count-0-7-oz/746964927
 https://www.luluhypermarket.com/en-qa/ferrero-kinder-joy-egg-girls-20g/p/1011266
-https://www.qatar2022.qa/en/stadiums/ras-abu-aboud-stadium
+https://www.qatar2022.qa/en/stadiums
 http://www.noonpost.com/sites/default/files/qatar2022.png
-
 "Dusk at the Pearl Qatar" by SJByles is licensed under CC BY-SA 2.0
+https://www.istockphoto.com/photo/aerial-view-of-the-pearl-qatar-island-in-doha-through-the-morning-fog-qatar-the-gm966897610-263778759?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fpearl-qatar&utm_term=pearl%20qatar%3A%3A%3A
+https://unsplash.com/photos/C0ZqA0c7R0Y
+https://unsplash.com/photos/Do6yoytec5E
+https://unsplash.com/photos/y_4_rCFVwd8
+https://www.cnn.com/travel/article/souq-waqif-doha-qatar/index.html
+https://en.wikipedia.org/wiki/Katara_(cultural_village)#/media/File:KataraVillageAmphitheater.jpg
+https://www.myholidays.com/blog/katara-cultural-village-a-handy-guide-for-your-day-at-katara-cultural-village/
+https://www.viator.com/tours/Doha/An-immersive-food-tour-and-boat-ride-in-The-Pearl-Qatar/d4453-198185P1
+https://www.dreamstime.com/stock-photo-traditional-arabic-dhows-doha-qatar-wooden-moored-off-museum-park-city-s-postmodern-st-century-high-rise-skyline-image73496997
+https://newsroom.hilton.com/hilton/news/hilton-salwa-beach-resort-villas-opens-in-qatar
+https://living2022.com/explore-qatar/sightseeing/best-beaches-facilities/
+https://www.istockphoto.com/photo/the-skyline-of-doha-city-center-after-sunset-qatar-gm697863854-138681447
+https://www.listchallenges.com/lonely-planets-top-experiences-and-sights-in-qatar
+https://www.tripsavvy.com/best-beaches-near-doha-4705459
+
+https://www.youtube.com/watch?v=chzHd1uSP_A
 
