@@ -75,8 +75,8 @@ Finally, I would like to introduce them to a country that they could visit. I ch
 
 1. The population of USA is 3,33,659,530 versus 2,947,566 in Qatar. 
 
-<div style="position: relative; width: 50%; height: 50%; padding-top: 0%;
- padding-bottom: 0px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+<div style="position: relative; width: 50%; height: 50%; padding-top: 75.0000%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwO8BKc98&#x2F;view?embed">
