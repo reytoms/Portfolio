@@ -1,4 +1,4 @@
-# SIMPLY EXIST VERSUS LIVE. MIND VERSUS HEART - We're all in this together!
+# THERE IS SO MUCH TO LOOK FORWARD TO!
 
 ![public](https://user-images.githubusercontent.com/92896969/142555873-a5cdffb8-2b1a-49fc-9b76-7a7b0b338073.jpeg)
 
