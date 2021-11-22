@@ -119,17 +119,37 @@ In the video I created for Qatar, I introduced some stadiums that will be hostin
 
 <div class="flourish-embed" data-src="visualisation/7881992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-** User research and interviews
+
+
+**User research and interviews**
 
 a. My target audience is anyone who was impacted by the COVID-19 lockdown and travel restrictions. Specifically, I want my story to be heard by graduate students/young adults who can plan and finance a vacation to take some time off, earning members of a family with young children who might not be able to plan a vacation themselves (to plan a family vacation), employers who might have gotten carried away with business needs and did not realize their employees deserve a break/time off, and anyone who might have experienced fatigue, but is unaware of it.
 
 b. My approach to identifying individuals is peers and relatives who either mentioned about their frustration with the new normal defined by COVID-19 restrictions such as working within four walls of a home, shift from in-person shopping/classes to remote mode, digital fatigue from social gatherings from a screen, and inability to meet family/friends. Though the interviewees might not be randomly selected, I want to make sure I include those that represent a sufficiently random distribution of individuals that might or might not connect with my story, agree/disagree with my solution to dealing with mental well-being, and those that might be curious or disinterested to switch back to life pre-covid.  
 
-c. I shared a word document with over 10 individuals to respond to about 15 questions. Some of the questions were asked prior to sharing the visualization, and some others after. Below are the responses recorded from 3 distinct individual categories.
+I shared 15 questions with over 10 individuals. Some of the questions were asked prior to sharing the visualization, and some others after. Below are the questions with responses recorded from 4 distinct individual categories that helped me understand the viewer persepective of my visuals. 
 
-d. the findings from your interviews; and 
 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+
+
+
+
+
+
+
+
+
+
+
+Below details how I plan on implementing the changes to ensure my review comments have been considered.
+
+
+- Even though majority of my viewers found the "Mind versus Heart" visualization most insightful, they were not able to fully understand it from the chart alone, until I explained what the terms such as neuroplasticity, and cognitive thinking meant. I consider it a valuable feedback. I will use a simple definition on my chart to explain the meaning of the words used.
+
+- Apart from the currency and population index, I received feedback to include about the weather conditions, local cuisine and safety. I plan to find data about the weather changes in Qatar over the year, include some must-have cuisines as part of my video, and create a data visualization regarding the safety of individuals/tourists of the country. From the top of my head I recall it ranked one of the top safest countries especially for women, but I will find a data set to showcase the same. Perhaps, modify my chart "Of the 200 countries, let's talk Qatar" to size the country names by the measure of safety. I feel like that visualization is not really adding any additional value to my story at the moment. Hence, I will modify that chart to convey a valuable metric about the country.
+
+- The response also confirmed to me that almost all my viewers cut down their travel from about 3 times a year pre-covid to either zero or 1 in the last year. I would like to show this information in the form of a data visualization in my final presentation. I trust it is an insightful information to share.
+
 
 ### References:
 
