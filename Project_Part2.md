@@ -111,7 +111,6 @@ I used Canva to build this visualization. I chose Kinder Joy as the item to disp
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwPBONP0A&#x2F;watch?utm_content=DAEwPBONP0A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Doha Qatar</a> by Reyma Thomas
 
-
 I used Canva to create a video to showcase Qatar. I trust this would create a more personal interest in the hearts of my viewers and consider planning a trip. Though I could not cover all possible tourist locations in Qatar, I highlighted some key attractions. I chose attractions and colorful images that displays the many leisure activities in Qatar. I considered this a great way to keep my viewers interested in my video. I also picked an arabic music to align with the culture of Qatar (arab country). All image references and the music credits are noted in the reference section.
 
 **Finally, I would like to create a countdown to FIFA QATAR 2022**
@@ -122,13 +121,11 @@ In the video I created for Qatar, I introduced some stadiums that will be hostin
 
 ** User research and interviews
 
-Your user research protocol should clearly identify the following: 
+a. My target audience is anyone who was impacted by the COVID-19 lockdown and travel restrictions. Specifically, I want my story to be heard by graduate students/young adults who can plan and finance a vacation to take some time off, earning members of a family with young children who might not be able to plan a vacation themselves (to plan a family vacation), employers who might have gotten carried away with business needs and did not realize their employees deserve a break/time off, and anyone who might have experienced fatigue, but is unaware of it.
 
-a. the target audience you hope to reach with your story; 
+b. My approach to identifying individuals is peers and relatives who either mentioned about their frustration with the new normal defined by COVID-19 restrictions such as working within four walls of a home, shift from in-person shopping/classes to remote mode, digital fatigue from social gatherings from a screen, and inability to meet family/friends. Though the interviewees might not be randomly selected, I want to make sure I include those that represent a sufficiently random distribution of individuals that might or might not connect with my story, agree/disagree with my solution to dealing with mental well-being, and those that might be curious or disinterested to switch back to life pre-covid.  
 
-b. your approach to identifying representative individuals to interview;
-
-c. your interview script; 
+c. I shared a word document with over 10 individuals to respond to about 15 questions. Some of the questions were asked prior to sharing the visualization, and some others after. Below are the responses recorded from 3 distinct individual categories.
 
 d. the findings from your interviews; and 
 
