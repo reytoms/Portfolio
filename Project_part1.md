@@ -149,6 +149,11 @@ As I continue to work on my story, I would also like to include a section to doc
 
 Noting that this is my story, it could be biased to my likes and preferences. I will note that as a comment. However, the method of arriving at the conclusion is what I would like for my viewers to take away. That is, why you need to take a vacation this holiday season and how to plan your vacations including what features should be considered as you plan.
 
+
+Next Up: [Final Project Part II](https://reytoms.github.io/Portfolio/Project_Part2.html)
+
+Return to the [home page](https://reytoms.github.io/Portfolio/)
+
 ### References
 
 1. Atlas, World. “The World’s Most Visited Countries.” WorldAtlas, 15 June 2016, www.worldatlas.com/articles/10-most-visited-countries-in-the-world.html.
