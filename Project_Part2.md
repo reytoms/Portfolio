@@ -4,8 +4,8 @@
 
 Image Source: [Currently Abroad](https://www.currentlyabroad.com/blog/Traveling+Mentalhealth)
 
-I would like to make note that my story will follow the theme of two colours - the combination of Pink and Blue Shades.
-From the cooler palette, I learnt that blue complements depression as well as travel. To highlight the benefits of travel I decided to chose the blend of both shades as they look bright and enriching!
+I would like to make note that my story will follow a theme of two colours - the combination of Pink and Blue Shades.
+From the cooler palette, I learnt that blue complements depression as well as travel. To highlight the benefits of travel I decided to choose the blend of both shades (pink and blue) as they look bright and enriching!
 
 The exact shades for the theme of the story are: 3a0ca3 (Blue) and b5179e (Pink)
 
@@ -20,11 +20,11 @@ The visualization below is insightful to see the increase in percentage of menta
 <div class="flourish-embed flourish-chart" data-src="visualisation/7871555"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 For this visualization I chose to make a grouped column chart because I wanted to show the comparison for each country side-by-side for pre covid and post 2020.I chose colors from the depression shades palette from coolers. I used a light shade for the pre-covid data (Pre-Covid color code: #cfd5f8) and a darker shade of the same hue for post 2020 (2020 color code: #514484). This is because I wanted to draw attention to the data for 2020, but I also wanted my viewers to consider the pre-numbers for comparison purposes, and to make note of the impact COVID-19 has had on the mental health especially towards depression.
-Some other factors I considered for this visualization includes a title that reads "TTHE PREVALENCE OF DEPRESSION INCREASED SIGNIFICANTLY IN 2020". I trust this title reinforces the data displayed in the visual. The word "prevalent" is meant to signify that mental health has not occured simply because of covid, but related concerns have significantly increased by COVID-19. I also used a legend to indicate the different colored bars and an axis label to indicate what the values indicate. Finally, I referenced the source of my data as a footnote to the chart.
+Some other factors I considered for this visualization includes a title that reads "THE PREVALENCE OF DEPRESSION INCREASED SIGNIFICANTLY IN 2020". I trust this title reinforces the data displayed in the visual. The word "prevalent" is meant to signify that mental health has not occured simply because of covid, but related concerns have significantly increased by COVID-19. I also used a legend to indicate the different colored bars and an axis label to indicate what the values indicate. Finally, I referenced the source of my data as a footnote to the chart.
 
 In my personal opinion, I am not surprised by the numbers neither am I impressed by it. However, I feel like these numbers need to be spoken about to let everyone know that we are all in this together!
 
-Staying away from friends and family especially on the big days were difficult, but so was closing yourself within the four walls of your room whether for work or leisure. It is no longer impossible to imagine being locked down, but rather depressing and "SAY NO!".
+Staying away from friends and family especially on the big days were difficult, and so was closing yourself within the four walls of your room whether for work or leisure. It is no longer impossible to imagine being locked down, but rather depressing and "SAY NO!".
 
 As part of this submission I would like to work on the following:
 
@@ -48,7 +48,7 @@ I want to create a storyboard particularly to draw the connection between travel
 <img width="400" alt="Screen Shot 2021-11-19 at 12 35 35 AM" src="https://user-images.githubusercontent.com/92896969/142571159-6d13e9a8-b440-4228-85bc-888408602523.png">
 
 
-**Visual 2:** This visual can be considered a storyboard in itself. "MIND WHERE YOU GO" is a short journey of an equipped mind to a more relaxed, happy mind. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
+**Visual 2:** This visual can be considered a storyboard in itself. "MIND VERSUS HEART: Travel" is a short journey of an equipped/fatigued mind to a more relaxed, happy mind. From my personal experience, travelling has helped me explore, learn and grow. The exposure from meeting people of different cultures and lifestyle, looking at the world from their perspective and learning something new (perhaps a language), or trying a new cuisine, are all experiences that help us evolve in creativity, and mindset. Depression could arise from loneliness or the fear of being lonely. Travelling is a great opportunity to meet friends and family, and even make a new friend along the journey.
 
 “Vacation travel as a means for getting away from the rigors of work and relaxing a few times a year is proven to be beneficial to overall mental health” -  U.S. Air Force Capt. Abigail Wolfe (86th Medical Group psychologist)
 
@@ -59,7 +59,7 @@ Openness to experience is critical to one's personality because it makes the per
 
 Neuroplasticity is the ability of the neural networks in the brain to change through growth and reorganization. When an individual travels, they put themselves in challenging situations that might require them to either communicate a non-verbal language using creativity to convey a message, engage in encounters that they might not have been exposed to in the past and/or think through situations that are not common to the otherwise everyday lives. Travel thus, positively contributes to building new connections in our brain, making us more creative, and adaptable.
 
-The third step to elevated mood that I have highlighted is the cognitive flexibility of the brain to shift from thinking about one concept to another.  The quicker you are able to switch your thinking from one dimension to another, the greater your level of cognitive flexibility. Rigid thinkers on the other hand are poor at adapting to new novel stimuli and shifting their thinking to accommodate various changes.
+The third step to elevated mood is cognitive flexibility of the brain to shift from thinking about one concept to another.  The quicker you are able to switch your thinking from one dimension to another, the greater your level of cognitive flexibility. Travel enhances cognitive thinking by involving us in situations that are not mundane and require an effort mechanism to cope up. Rigid thinkers on the other hand are poor at adapting to new novel stimuli and shifting their thinking to accommodate various changes.
 
 The ability to work on these 3 areas is key to a better mental health. From this storyboard I aspire to invoke the willingness in my viewers to incorporate these 3 key abilities with travel.
 
@@ -74,7 +74,8 @@ By now I trust my viewers are convinced about taking the journey towards a healt
 
 
 Finally, I would like to introduce them to a country that I would like them to visit. 
-Qatar is my home country. Hence, I would like to encourage my viewers to visit Doha, Qatar.
+
+Qatar being my home country, I would like to encourage my viewers to visit Doha, Qatar.
 
 The reason I created the below visualization is to show my viewers about the possible travel destinations. However, for this story out of about 200 countries in the world, I want to highlight "QATAR". I did this by giving the largest font size to Qatar and using uppercase font for it as compared to lower case font for the other countries. 
 
@@ -88,14 +89,14 @@ In the following visualizations, I chose to highlight some areas of differences 
 
 For each Qatari resident, there are about 114 Americans.
 
-I used Canva to build this visualization. I chose the #64113f shade to represent a citizen in Qatar because this color is closest to the shade of the Qatar Flag. On the other hand, to show the population for USA, I picked blue from the color of the USA National flag. I did not choose red instead because red and the maroon for Qatar might not look as distinct as the blue and maroon.
+I used Canva to build this visualization. I chose the #64113f shade to represent a citizen in Qatar because this color is closest to the shade of the Qatar Flag. On the other hand, to show the population for USA, I picked blue from the color of the USA National flag. I did not choose red instead because red for USA and the maroon for Qatar might not look as distinct as the combination of blue and maroon.
 
 
 **The value of 1 USD is equal to 3.65 qatar riyals.**
 
 ![1 USD = 3.65 QAR.pdf](https://user-images.githubusercontent.com/92896969/142717639-a2c06d79-ea5e-49af-8a72-85d1b708314d.png)
 
-I used Canva to build this visualization. I chose Kinder Joy as the item to display the difference in currency rate because I wanted a product common in both the countries (same brand). I also wanted the product to be about $1 in USA. By this method I am able to show the exchange rate for 1 USD as 3.65 QAR.
+I used Canva to build this visualization. I chose Kinder Joy as the item to display the difference in currency rate because I wanted a product common in both the countries (same brand), and I wanted the product to be about $1 in USA. By this method I am able to show the exchange rate for 1 USD as 3.65 QAR.
 
 **The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.**
 
@@ -111,11 +112,11 @@ I used Canva to build this visualization. I chose Kinder Joy as the item to disp
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAEwPBONP0A&#x2F;watch?utm_content=DAEwPBONP0A&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Doha Qatar</a> by Reyma Thomas
 
-I used Canva to create a video to showcase Qatar. I trust this would create a more personal interest in the hearts of my viewers and consider planning a trip. Though I could not cover all possible tourist locations in Qatar, I highlighted some key attractions. I chose attractions and colorful images that displays the many leisure activities in Qatar. I considered this a great way to keep my viewers interested in my video. I also picked an arabic music to align with the culture of Qatar (arab country). All image references and the music credits are noted in the reference section.
+I used Canva to create a video to showcase Qatar. I trust this would create a more personal interest in the hearts of my viewers who might want to consider planning a trip to Doha. Though I could not cover all possible tourist locations in Qatar, I highlighted some key attractions. I chose attractions and colorful images that display a varietyu of leisure activities in Qatar. I also picked an arabic music to play in the background that would align with the culture of Qatar (arab country). All image used and the music credits are noted in the reference section. 
 
 **Finally, I would like to create a countdown to FIFA QATAR 2022**
 
-In the video I created for Qatar, I introduced some stadiums that will be hosting the FIFA 2022 World Cup. Noting that my viewers are students (young adults), I believe I will be able to gather their attention and focus to the game. As much as I hope they all take a vacation (to any destination that is viable to them) this Christmas, I want to them to consider visiting Qatar atleast next year during the same season. I am using the FIFA countdown to have them consider making the trip! The world Cup is a little less than a year away from now. 
+In the video I created for Qatar, I introduced some stadiums that will be hosting the FIFA 2022 World Cup. Noting that my viewers are students (young adults), I believe I will be able to gather their attention and focus to the big game being hosted by Qatar next winter. As much as I hope they all take a vacation (to any destination that is viable to them) this Christmas, I want them to consider visiting Qatar atleast next year during the same season. I am using the FIFA countdown to have them consider making the trip! With the countdown I want to remind my viewers that the world Cup is a little less than a year away from now - which means it is the right time to start planning. 
 
 <div class="flourish-embed" data-src="visualisation/7881992"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -125,22 +126,26 @@ In the video I created for Qatar, I introduced some stadiums that will be hostin
 
 a. My target audience is anyone who was impacted by the COVID-19 lockdown and travel restrictions. Specifically, I want my story to be heard by graduate students/young adults who can plan and finance a vacation to take some time off, earning members of a family with young children who might not be able to plan a vacation themselves (to plan a family vacation), employers who might have gotten carried away with business needs and did not realize their employees deserve a break/time off, and anyone who might have experienced fatigue, but is unaware of it.
 
-b. My approach to identifying individuals is peers and relatives who either mentioned about their frustration with the new normal defined by COVID-19 restrictions such as working within four walls of a home, shift from in-person shopping/classes to remote mode, digital fatigue from social gatherings from a screen, and inability to meet family/friends. Though the interviewees might not be randomly selected, I want to make sure I include those that represent a sufficiently random distribution of individuals that might or might not connect with my story, agree/disagree with my solution to dealing with mental well-being, and those that might be curious or disinterested to switch back to life pre-covid.  
+b. My approach to identifying individuals is primarily focussed on peers and relatives who either mentioned about their frustration with the new normal defined by COVID-19 restrictions such as working within four walls of a home, shift from in-person shopping/classes to remote mode, digital fatigue from social gatherings on a screen, and inability to meet family/friends. Though the interviewees were not randomly selected, I want to make sure I include those that represent a sufficiently random distribution of individuals that might or might not connect with my story, agree/disagree with my story about dealing with mental well-being, and those that might be curious or disinterested to switch back to life pre-covid.  
 
 I shared 15 questions with over 10 individuals. Some of the questions were asked prior to sharing the visualization, and some others after. Below are the questions with responses recorded from 4 distinct individual categories that helped me understand the viewer persepective of my visuals. 
-
-
 
 [User Research](https://github.com/reytoms/Portfolio/blob/main/Questionnaire.xlsx)
 
 Below details how I plan on implementing the changes to ensure my review comments have been considered.
 
 
-- Even though majority of my viewers found the "Mind versus Heart" visualization most insightful, they were not able to fully understand it from the chart alone, until I explained what the terms such as neuroplasticity, and cognitive thinking meant. I consider it a valuable feedback. I will use a simple definition on my chart to explain the meaning of the words used.
+- Even though majority of my viewers found the "Mind versus Heart" visualization most insightful, they were not able to fully interpret the message without an explanation of the terms used - neroplasticity and cognitive thinking. I noted this as a valuable feedback. I will use a simple definition on my chart to explain the meaning of the words used.
 
-- Apart from the currency and population index, I received feedback to include about the weather conditions, local cuisine and safety. I plan to find data about the weather changes in Qatar over the year, include some must-have cuisines as part of my video, and create a data visualization regarding the safety of individuals/tourists of the country. From the top of my head I recall it ranked one of the top safest countries especially for women, but I will find a data set to showcase the same. Perhaps, modify my chart "Of the 200 countries, let's talk Qatar" to size the country names by the measure of safety. I feel like that visualization is not really adding any additional value to my story at the moment. Hence, I will modify that chart to convey a valuable metric about the country.
+- Apart from the currency and population index, I received feedback to include about the weather conditions, local cuisine and safety of tourists. I plan to find data about the weather changes in Qatar over the year, include some must-have cuisines as part of my video, and create a data visualization regarding the safety of individuals/tourists that visit the country. From the top of my head I recall that Qatar ranked one of the top safest countries especially for women, but I will find a data set to showcase the same. Perhaps, modify my chart "Of the 200 countries, let's talk Qatar" to resize the country names by the a safety metric. I feel like the current visualization is not adding any additional value to my story at the moment. Hence, I will modify that chart to convey a valuable metric about the country.
 
-- The response also confirmed to me that almost all my viewers cut down their travel from about 3 times a year pre-covid to either zero or 1 in the last year. I would like to show this information in the form of a data visualization in my final presentation. I trust it is an insightful information to share.
+- I noticed users took sometime to make sense of the 'kinder joy' visual which aimed to highlight that $1 = 3.65 QAR. Personally, I feel like the title I gave for that visual is somewhat complicated. I will try to use simpler title for it, or think of a different way to convey the same message. 
+
+- The response also confirmed to me that almost all my viewers cut down their travel from about 3 times a year pre-covid to either zero or 1 in the last year. I would like to show this information in the form of a data visualization in my final presentation. I trust it is an insightful information to share with my viewers.
+
+Next Up: Final Project Part III | Go Back To: [Final Project Part 1](https://reytoms.github.io/Portfolio/Project_part1.html)
+
+[Back Home](https://reytoms.github.io/Portfolio/)
 
 
 ### References:
