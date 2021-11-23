@@ -26,6 +26,6 @@ I aspire to build appealing visuals with impressive and communicative data.
 Final Project: 
 [Follow me as I develop my final project](/Project_part1.md)
 
-[Part II: Let's continue to build on the impact of Travel on Mental Health](/Project_Part2.md)
+Part II:[Let's continue to build on the impact of Travel on Mental Health](/Project_Part2.md)
 
 Part III: Final deliverable and presentation
