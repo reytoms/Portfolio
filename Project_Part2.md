@@ -98,8 +98,6 @@ I used Canva to build this visualization. I chose the #64113f shade to represent
 
 I used Canva to build this visualization. I chose Kinder Joy as the item to display the difference in currency rate because I wanted a product common in both the countries (same brand), and I wanted the product to be about $1 in USA. By this method I am able to show the exchange rate for 1 USD as 3.65 QAR.
 
-**The USA is ruled by a democracy while Qatar is ruled by the heredity monarch family.**
-
 
 **I would like to highlight some tourist attractions in Doha**
 
