@@ -143,9 +143,10 @@ Below details how I plan on implementing the changes to ensure my review comment
 
 - The response also confirmed to me that almost all my viewers cut down their travel from about 3 times a year pre-covid to either zero or 1 in the last year. I would like to show this information in the form of a data visualization in my final presentation. I trust it is an insightful information to share with my viewers.
 
-Next Up: Final Project Part III | Go Back To: [Final Project Part 1](https://reytoms.github.io/Portfolio/Project_part1.html)
 
-[Back Home](https://reytoms.github.io/Portfolio/)
+Next Up: [Final Project Part III] | Go Back To: [Final Project Part 1](https://reytoms.github.io/Portfolio/Project_part1.html)
+
+Return to the [home page](https://reytoms.github.io/Portfolio/)
 
 
 ### References:
