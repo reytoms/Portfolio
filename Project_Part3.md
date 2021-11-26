@@ -38,7 +38,7 @@ d. I used Flourish to build my graph based data visualizations and the safety in
 ### View my story here: 
 
 
-Go Back To: [Final Project Part I](https://reytoms.github.io/Portfolio/Project_part1.html) or [Final Project Part II (https://reytoms.github.io/Portfolio/Project_Part2.html)
+Go Back To: [Final Project Part I](https://reytoms.github.io/Portfolio/Project_part1.html) or [Final Project Part II](https://reytoms.github.io/Portfolio/Project_Part2.html)
 
 Return to the [home page](https://reytoms.github.io/Portfolio/)
 
