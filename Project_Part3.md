@@ -18,13 +18,29 @@ c. Develop my final story
 
 ## Part III 
 
-Based on feedback from the target audience I identified and included as part of my user research sample set in Part II, I created the following additional visualizations:
+Based on feedback from the target audience that I identified and included as part of my user research sample set in Part II, I created the following additional visualizations:
 
 a. Data visualization of travel trends in 2019 versus 2020 and 2021
 
 <div class="flourish-embed flourish-slope" data-src="visualisation/7941541"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
 As much as I knew about the drop in travel trends from 2019 to 2020 and a rising trend again since 2021, from TSA website I was able to find data to support the statement. I created a slope chart as I wanted to show the dip and rise in trend across the years. I segregated the data to averages across four quarters and used the colours of the season to distinguish the trend lines. For Q1(Jan-Feb-Mar), I used a blue shade(#0077b6) denoting winter season, Q2(Apr-May-Jun) in green (#2b9348I) denoting spring season, Q3(Jul-Aug-Sept) in yellow (#ffb700) denoting summer season and Q4 (Oct-Nov) in orange (#bb3e03) denoting Fall season. I would like to make note that 2021 Q1 trends did not increase significantly as the vaccinations were made available only by Q2. Though Q3 trends surpassed Q2, Q4 is still ongoing and we will not be able to confirm the true rise in trend for Q4 until the end of december 2021. The title of the chart "THE US TRAVEL TREND DIPS OF 2020 RISE AGAIN IN 2021" highlights the rise in trend for the year 2021 (as compared to the significant dip from 2019 to 2020) across USA. I also created a legend for the four shades used and placed them on the right hand side of the chart for early understanding. The x-axis (slope periods) indicate the years 2019,2020 and 2021, and y axis indicates the average number of travellers for each quarted in 2019 and 2021.
+
+
+b. Safety in Qatar
+c. Weather
+
+d. I used Flourish to build my graph based data visualizations and the safety index chart. 
+
+## The Story
+
+### View my story here: 
+
+
+Go Back To: [Final Project Part I](https://reytoms.github.io/Portfolio/Project_part1.html) or [Final Project Part II (https://reytoms.github.io/Portfolio/Project_Part2.html)
+
+Return to the [home page](https://reytoms.github.io/Portfolio/)
 
 
 - Work done, design decisions and observations
