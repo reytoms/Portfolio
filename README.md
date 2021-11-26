@@ -29,4 +29,4 @@ Part I: [Follow me as I develop my final project](/Project_part1.md)
 
 Part II: [Storyboard and Wireframes](/Project_Part2.md)
 
-Part III: Final deliverable and presentation
+Part III: [Final deliverable and presentation](/Project_Part3.md)
