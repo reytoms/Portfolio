@@ -29,7 +29,16 @@ As much as I knew about the drop in travel trends from 2019 to 2020 and a rising
 
 
 b. Safety in Qatar
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7948942"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I found data in the website for Numbeo that Qatar ranks the highest for satety index 2021 and the lowest for crime index 2021. Though I wanted to created a visualization with the names of all countries (perhaps by a world map), the visual looked really cramped in. I learned that this was because the index values are very close to each other and the visual did not highlight any evident distinction. Thus, I chose to use a column chart. I also modified the data set with just the top 20 countries. From the visual it is clear that Qatar tops the ranking, and Denmark ranks 20. I used a maroon shade (#8a1538) for Qatar as it resembles the flag of the country, and left the others in grey. My chart is titled "QATAR RANKS HIGHEST IN SAFETY INDEX 2021" followed by a subtitle "Top 20 countries by safety index". In stead of indicating the index values on y-axis, I use the top of each bar to denote the country's safety index value. I consider this a better form of representation to minimize eye travel and to better interpret the data visually.
+
 c. Weather
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7949149"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I created a line chart to visualize the range of temperatures through the year by months. I used a blue shade (#0077b6) for the low temperature average line as it denotes cold, and yellow for the high temperature average (#ffb700). I titled the chart "BEST MONTHS TO VISIT QATAR - NOVEMBER TO APRIL" to reinforce the best climate months in the region. Finally, I denoted the temperature values along the line to reduce eye travel. 
 
 d. I used Flourish to build my graph based data visualizations and the safety index chart. 
 
