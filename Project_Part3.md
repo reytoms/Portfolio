@@ -55,3 +55,15 @@ Return to the [home page](https://reytoms.github.io/Portfolio/)
 - interpretable data visualizations (aesthetics and design)
 - reinfornce the correct interpretation of the data visualization
 Links and References
+
+Photo by <a href="https://unsplash.com/@anthonytran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anthony Tran</a> on <a href="https://unsplash.com/s/photos/mental-health?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  https://unsplash.com/photos/T6MvL65lWmI
+  
+ https://www.istockphoto.com/photo/molecular-thoughts-gm137062187-18892265?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhuman-brain&utm_term=human%20brain%3A%3A%3A
+ 
+ https://www.istockphoto.com/photo/swiss-knife-2-gm459065129-31074904?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fmulti-tasking&utm_term=multi%20tasking%3A%3A%3A
+ 
+ 
+  
+  
