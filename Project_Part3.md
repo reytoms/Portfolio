@@ -1,10 +1,12 @@
-# **LET GO; LET'S GO!**
+# **LET GO, and LET'S GO!**
 
 ![istockphoto-1268257888-612x612](https://user-images.githubusercontent.com/92896969/143535346-61d0b524-443a-4ccf-abe7-9c5916cc1891.jpg)
 
 Image Source: [Unsplash](https://www.istockphoto.com/photo/travel-safe-during-the-coronavirus-pandemic-airplane-model-with-face-mask-on-blue-gm1268257888-372230384)
 
-## Reflections from Part I and 11
+The title "LET GO, and LET'S GO" implies to let go of poor mental health conditions such as depression by going on a vacation. I wanted to have a title that sounded intresting, and would make my viewers inquisitive. 
+
+## Reflections from Part I and II
  
 In Part I of the project, I decided I wanted to tell a story that focussed on two areas - mental health during the pandemic, and taking a vacation. Based on my personal experience, I created a timeline to show how my mental health deteriorated since the pandemic was declared and related restrictions such as lockdowns, work-from-home measures, and other new norms were enforced. My mental health dipped until I was vaccinated in early 2021. The shift in mental health trend highlighted that the vaccination drive across the globe was an indication of an opportunity for improved mental well-being, especially because the lockdowns were gradually being lifted and borders were open to tourism and social gatherings. My call to action was to travel and explore places and people to come out of the negativity, loneliness and depression knots in the brain as a result of being locked within the four walls of a house. As part of this deliverable I also highlighted how to choose a destination to visit, and guideline on how to plan a vacation. 
 
@@ -37,13 +39,26 @@ c. Weather
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7949149"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I created a line chart to visualize the range of temperatures through the year by months. I used a blue shade (#0077b6) for the low temperature average line as it denotes cold, and yellow for the high temperature average (#ffb700). I titled the chart "BEST MONTHS TO VISIT QATAR - NOVEMBER TO APRIL" to reinforce the best climate months in the region. Finally, I denoted the temperature values along the line to reduce eye travel. 
+I first created a line chart to visualize the range of temperature, but later I realized that a scatter dot plot would convey my message more clearly. The visualization includes the range of temperatures through the year by months. I used a blue shade (#0077b6) for the low temperature average as it denotes cold, and yellow for the high temperature average (#ffb700) across the months. I titled the chart "BEST MONTHS TO VISIT QATAR - NOVEMBER TO APRIL" to reinforce the best climate months in the region. 
 
 d. I used Flourish to build my graph based data visualizations and the safety index chart. 
+
+Additionally, I incorporated changes suggested by my peers, the TA and professor in my visualizations of Part I and II that I included in my final version. These changes include:
+
+a. Chnaged of title for the visualization that denotes how depression levels have increased since the lockdown. The title seemed confusing to my viewers as it read "THE PREVALENCE OF DEPRESSION INCREASED SIGNIFICANTLY IN 2020". I modified this to simpler words "DEPRESSION INCREASED SIGNIFICANTLY IN 2020".
+
+b. I also received feedback to include link to how they could plan a trip to Qatar. I used a click button in my story that redirect to a webpage to book flights to Qatar and another button for my viewers to plan their stay and activities when in Qatar.
+
+Additional Comments:
+
+Even though I created a visualization for the decrease in travel trend, I did not use it in my story. As I was working on my story, I realized it was too much information to cover in 60 seconds. Hence, I decided to focus on the rise in mental health conditions since the lockdown, followed by a call to action that highlights the benefit of travel. To conclude my story, I suggested my viewers to visit Doha. With a countdown, I wanted to let them know that even if they cannot visit the country immediately, they still have about a year to plan their visit during the FIFA World cUP 2022.
+
+I wanted to find data that would support my call to action which highlights the benefits of travel on poor mental health. Unfortunately, I did not find data from a viable source regarding this. However, I read a multitude of research articles which confirm the call to action is indeed beneficial to those suffering from poor mental health.
 
 ## The Story
 
 ### View my story here: 
+
 
 
 Go Back To: [Final Project Part I](https://reytoms.github.io/Portfolio/Project_part1.html) or [Final Project Part II](https://reytoms.github.io/Portfolio/Project_Part2.html)
@@ -54,11 +69,11 @@ Return to the [home page](https://reytoms.github.io/Portfolio/)
 - Work done, design decisions and observations
 - interpretable data visualizations (aesthetics and design)
 - reinfornce the correct interpretation of the data visualization
-Links and References
 
-Photo by <a href="https://unsplash.com/@anthonytran?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Anthony Tran</a> on <a href="https://unsplash.com/s/photos/mental-health?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+## Links and References
   
-  https://unsplash.com/photos/T6MvL65lWmI
+ https://unsplash.com/photos/T6MvL65lWmI
   
  https://www.istockphoto.com/photo/molecular-thoughts-gm137062187-18892265?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhuman-brain&utm_term=human%20brain%3A%3A%3A
  
@@ -67,6 +82,10 @@ Photo by <a href="https://unsplash.com/@anthonytran?utm_source=unsplash&utm_medi
  https://unsplash.com/photos/uGP_6CAD-14
  
  https://unsplash.com/photos/MmPJrxJeJGY
+ 
+ https://unsplash.com/photos/58Z17lnVS4U
+ 
+ https://unsplash.com/photos/FwdZYz0yc9g
  
   
   
