@@ -39,7 +39,7 @@ I found data in the website for Numbeo that Qatar ranks the highest for satety i
 
 c. Weather
 
-<div class="flourish-embed flourish-scatter" data-src="visualisation/7957144"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-slope" data-src="visualisation/7990031"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I first created a line chart to visualize the range of temperature, but later I realized that a scatter dot plot would convey my message more clearly. The visualization includes the range of temperatures through the year by months. I used a blue shade (#0077b6) for the low temperature average as it denotes cold, and yellow for the high temperature average (#ffb700) across the months. I titled the chart "BEST MONTHS TO VISIT QATAR - NOVEMBER TO APRIL" to reinforce the best climate months in the region. 
 
