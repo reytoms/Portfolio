@@ -33,10 +33,10 @@ Part III: [Final deliverable and presentation](/Project_Part3.md)
 
 #### __Lessons Learned and Take Aways from the course__
 
-I learned about the little things that make a difference, and that can enhance the impact of a message being conveyed. Until I completed this course, I was not aware of the power of visual appeal, and interactive charts when giving a presentation. I also learned that data was meaningless if it could not be communicated appropriately and accurately. It has been my pleasure to learn how to communicate key points by the use of visuals, colors and contrast in about 60 seconds.
+I learned about the little things that make a difference, and can enhance the impact of a message being conveyed. Until I completed this course, I was not aware of the power of visual appeal, and interactive charts when giving a presentation. I also learned that data was meaningless if it could not be communicated appropriately and accurately. It has been my pleasure to learn how to communicate key points by the use of visuals, colors and contrast in about 60 seconds.
 
 Critique activities were a beneficial method to look at visuals from different perspectives and incorporate the review remarks in our own work.
 
 Lastly, an advice I hold close is to be excited about giving presentations rather than anxious. The best way to do that is by owning the story. 
 
-A self note: Nobody knows your story better than you present it!
+A self note: Nobody knows your story better than you present it, both visually and verbally!
