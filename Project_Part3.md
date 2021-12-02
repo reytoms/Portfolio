@@ -55,20 +55,19 @@ Even though I created a visualization for the decrease in travel trend, I did no
 
 I wanted to find data that would support my call to action which highlights the benefits of travel on poor mental health. Unfortunately, I did not find data from a viable source regarding this. However, I read a multitude of research articles which confirm the call to action is indeed beneficial to those suffering from poor mental health.
 
+## Audience:
+Noting that my audience for the presentation would be my classmates, I highlishted the opportunity they have this break (after semester end exams) to fly again. I felt like the students would be excited about the FIFA world cup, so I chose not to eliminate that from my presentation.
+
+Based on the review feedback/critique that I received in part II, I also included elements that my audience were interested to know about Qatar. 
+
 ## The Story
 
-### View my story here: 
-
+### View my story here: <script src="https://carnegiemellon.shorthandstories.com/let-go-and-let-s-go/embed.js"></script>
 
 
 Go Back To: [Final Project Part I](https://reytoms.github.io/Portfolio/Project_part1.html) or [Final Project Part II](https://reytoms.github.io/Portfolio/Project_Part2.html)
 
 Return to the [home page](https://reytoms.github.io/Portfolio/)
-
-
-- Work done, design decisions and observations
-- interpretable data visualizations (aesthetics and design)
-- reinfornce the correct interpretation of the data visualization
 
 
 ## Links and References
