@@ -33,7 +33,7 @@ b. Safety in Qatar
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7948942"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I found data in the website for Numbeo that Qatar ranks the highest for satety index 2021 and the lowest for crime index 2021. Though I wanted to created a visualization with the names of all countries (perhaps by a world map), the visual looked really cramped in. I learned that this was because the index values are very close to each other and the visual did not highlight any evident distinction. Thus, I chose to use a column chart. I also modified the data set with just the top 20 countries. From the visual it is clear that Qatar tops the ranking, and Denmark ranks 20. I used a maroon shade (#8a1538) for Qatar as it resembles the flag of the country, and left the others in grey. My chart is titled "QATAR RANKS HIGHEST IN SAFETY INDEX 2021" followed by a subtitle "Top 20 countries by safety index". In stead of indicating the index values on y-axis, I use the top of each bar to denote the country's safety index value. I consider this a better form of representation to minimize eye travel and to better interpret the data visually.
+I found data in the website for Numbeo that Qatar ranks the highest for satety index 2021 and the lowest for crime index 2021. Though I wanted to created a visualization with the names of all countries (perhaps by a world map), the visual looked really cramped in. I learned that this was because the index values are very close to each other and the visual did not highlight any evident distinction. Thus, I chose to use a column chart. Moreover, the column chart was a better way to show the comparison in terms of safety between the countries. I also modified the data set with just the top 20 countries. From the visual it is clear that Qatar tops the ranking, and Denmark ranks 20. I used a maroon shade (#8a1538) for Qatar as it resembles the flag of the country, and left the others in grey. My chart is titled "QATAR RANKS HIGHEST IN SAFETY INDEX 2021" followed by a subtitle "Top 20 countries by safety index". I first used the top of each bar to represent the safety index of the country, but there was no single color that was visible on the grey bars as well as the marroon bar for Qatar. So I removed the label from each bar and included the values along the Y-axis. To reduce eye travel, I further indicated the values as pop ups for each bar. 
 
 c. Weather
 
@@ -45,7 +45,7 @@ d. I used Flourish to build my graph based data visualizations and the safety in
 
 Additionally, I incorporated changes suggested by my peers, the TA and professor in my visualizations of Part I and II that I included in my final version. These changes include:
 
-a. Chnaged of title for the visualization that denotes how depression levels have increased since the lockdown. The title seemed confusing to my viewers as it read "THE PREVALENCE OF DEPRESSION INCREASED SIGNIFICANTLY IN 2020". I modified this to simpler words "DEPRESSION INCREASED SIGNIFICANTLY IN 2020".
+a. Changed the title for the visualization that denotes how depression levels have increased since the lockdown. The title seemed confusing to my viewers as it read "THE PREVALENCE OF DEPRESSION INCREASED SIGNIFICANTLY IN 2020". I modified this to simpler words "DEPRESSION INCREASED SIGNIFICANTLY IN 2020".
 
 b. I also received feedback to include link to how they could plan a trip to Qatar. I used a click button in my story that redirect to a webpage to book flights to Qatar and another button for my viewers to plan their stay and activities when in Qatar.
 
@@ -58,7 +58,7 @@ I wanted to find data that would support my call to action which highlights the 
 ## Audience:
 Noting that my audience for the presentation would be my classmates, I highlishted the opportunity they have this break (after semester end exams) to fly again. I felt like the students would be excited about the FIFA world cup, so I chose not to eliminate that from my presentation.
 
-Based on the review feedback/critique that I received in part II, I also included elements that my audience were interested to know about Qatar. 
+Based on the review feedback/critique that I received in part II, I also included elements that my audience were interested to know about Qatar such as the weather and safety index. 
 
 ## The Story
 
