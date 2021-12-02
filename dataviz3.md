@@ -145,6 +145,8 @@ j. I used a font size of 11 for all the column headers and a font size of 9 for 
 
 a. I could not add the flag icons for the country names. I trust it would be good to have that included because it would enhance the visual intuitiveness and aid those who cannot read the english language. I would like to consider this as part of my future work for the visualization.
 
+Return to the [home page](https://reytoms.github.io/Portfolio/)
+
 # __References__ 
 
 1. Sports Staff, CBS. “2020 Tokyo Olympics Medal Count: USA Tops China in Gold, Silver, Bronze and Overall Medal Totals.” CBSSports.com, 8 Aug. 2021, www.cbssports.com/olympics/news/tokyo-olympics-final-medal-table-usa-leads-in-in-gold-silver-bronze-and-overall-with-more-than-100-medals/.
