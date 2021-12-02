@@ -31,7 +31,7 @@ Part II: [Storyboard and Wireframes](/Project_Part2.md)
 
 Part III: [Final deliverable and presentation](/Project_Part3.md)
 
-#### __Lessons Learnt and Take Aways from the course__
+#### __Lessons Learned and Take Aways from the course__
 
 I learned about the little things that make a difference, and that can enhance the impact of a message being conveyed. Until I completed this course, I was not aware of the power of visual appeal, and interactive charts when giving a presentation. I also learned that data was meaningless if it could not be communicated appropriately and accurately. It has been my pleasure to learn how to communicate key points by the use of visuals, colors and contrast in about 60 seconds.
 
