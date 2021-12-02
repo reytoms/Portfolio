@@ -72,20 +72,13 @@ Return to the [home page](https://reytoms.github.io/Portfolio/)
 
 
 ## Links and References
-  
- https://unsplash.com/photos/T6MvL65lWmI
-  
- https://www.istockphoto.com/photo/molecular-thoughts-gm137062187-18892265?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fhuman-brain&utm_term=human%20brain%3A%3A%3A
+
+
+[Msheireb Downtown Doha, Doha, Qatar, Image by Rowen Smith](https://unsplash.com/photos/MmPJrxJeJGY)
  
- https://www.istockphoto.com/photo/swiss-knife-2-gm459065129-31074904?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fmulti-tasking&utm_term=multi%20tasking%3A%3A%3A
+[Braintree, MA, USA, Image by Fakurian Design](https://unsplash.com/photos/58Z17lnVS4U)
  
- https://unsplash.com/photos/uGP_6CAD-14
- 
- https://unsplash.com/photos/MmPJrxJeJGY
- 
- https://unsplash.com/photos/58Z17lnVS4U
- 
- https://unsplash.com/photos/FwdZYz0yc9g
+[Gold Coast, Australia, Image by Leio McLaren](https://unsplash.com/photos/FwdZYz0yc9g)
  
   
   
