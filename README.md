@@ -30,3 +30,7 @@ Part I: [Follow me as I develop my final project](/Project_part1.md)
 Part II: [Storyboard and Wireframes](/Project_Part2.md)
 
 Part III: [Final deliverable and presentation](/Project_Part3.md)
+
+#### __Lessons Learnt and Take Aways from the course__
+
+I learned about the little things that make a difference, and a big impact. Until I completed this course, I was not aware of the power of visual appeal, and interactive slides when giving a presentation. I also learned that data was meaningless if it could not be communicated appropriately and accurately. It has been my pleasure to learn how to communicate key points by the use of visuals, colors and contrast in about 60 seconds. 
