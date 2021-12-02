@@ -37,7 +37,7 @@ I found data in the website for Numbeo that Qatar ranks the highest for satety i
 
 c. Weather
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/7949149"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-scatter" data-src="visualisation/7957144"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I first created a line chart to visualize the range of temperature, but later I realized that a scatter dot plot would convey my message more clearly. The visualization includes the range of temperatures through the year by months. I used a blue shade (#0077b6) for the low temperature average as it denotes cold, and yellow for the high temperature average (#ffb700) across the months. I titled the chart "BEST MONTHS TO VISIT QATAR - NOVEMBER TO APRIL" to reinforce the best climate months in the region. 
 
@@ -49,7 +49,7 @@ a. Chnaged of title for the visualization that denotes how depression levels hav
 
 b. I also received feedback to include link to how they could plan a trip to Qatar. I used a click button in my story that redirect to a webpage to book flights to Qatar and another button for my viewers to plan their stay and activities when in Qatar.
 
-Additional Comments:
+**Additional Comments:**
 
 Even though I created a visualization for the decrease in travel trend, I did not use it in my story. As I was working on my story, I realized it was too much information to cover in 60 seconds. Hence, I decided to focus on the rise in mental health conditions since the lockdown, followed by a call to action that highlights the benefit of travel. To conclude my story, I suggested my viewers to visit Doha. With a countdown, I wanted to let them know that even if they cannot visit the country immediately, they still have about a year to plan their visit during the FIFA World cUP 2022.
 
